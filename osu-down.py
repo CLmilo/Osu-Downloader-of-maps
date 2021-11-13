@@ -219,8 +219,11 @@ with webdriver as driver:
             Descargar_Mapas(t)
             print("Porcentaje: 100%")
             hora = time.strftime('%H:%M:%S', time.localtime())
-            print("Acaba la descarga de mapas de la parte: "+str(t)+" a la hora: "+hora )
-            print("--------------Espera 30 min--------------")
+            print("Acabó la descarga de mapas de la parte: "+str(t)+" a la hora: "+hora )
+            if t<total:
+                print("--------------Espera 30 min--------------")
+            else:
+                pass
             time.sleep(1800)
     else:
         hora = time.strftime('%H:%M:%S', time.localtime())
@@ -229,7 +232,7 @@ with webdriver as driver:
         print("Porcentaje: 100%")
         hora = time.strftime('%H:%M:%S', time.localtime())
         print("Acaba la descarga de mapas de la parte: "+str(args.part)+" a la hora: "+hora )
-        print("--------------Espera 30 min--------------")
+        print("--------------Espera 30 min antes de descargar--------------")
     driver.close()
 
 
