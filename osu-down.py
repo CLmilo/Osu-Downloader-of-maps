@@ -89,7 +89,7 @@ with webdriver as driver:
         # Obteniendo el total de mapas en la página
         button = driver.find_element(By.XPATH,'//div[@class="page-extra"]/button')
 
-        for i in range(0):
+        for i in range(cantidad+1):
             button.click()
             time.sleep(2)
             if i == (cantidad):
