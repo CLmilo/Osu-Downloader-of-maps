@@ -196,10 +196,10 @@ with webdriver as driver:
                     )
                     if args.withvideo: 
                         response = requests.get(link, headers=headers, cookies=cookies, verify=False)
-                        time.sleep(1)
+                        time.sleep(0.2)
                     else: 
                         response = requests.get(link, headers=headers, cookies=cookies, params=params, verify=False)
-                        time.sleep(1)
+                        time.sleep(0.2)
                     if args.verbose:
                         print(name)
                     else:
@@ -220,8 +220,8 @@ with webdriver as driver:
             print("Porcentaje: 100%")
             hora = time.strftime('%H:%M:%S', time.localtime())
             print("Acaba la descarga de mapas de la parte: "+str(t)+" a la hora: "+hora )
-            print("--------------Espera 15 min--------------")
-            time.sleep(900)
+            print("--------------Espera 30 min--------------")
+            time.sleep(1800)
     else:
         hora = time.strftime('%H:%M:%S', time.localtime())
         print("Comienza la descarga de mapas de la parte: "+str(args.part)+" a la hora: "+hora ) 
@@ -229,7 +229,7 @@ with webdriver as driver:
         print("Porcentaje: 100%")
         hora = time.strftime('%H:%M:%S', time.localtime())
         print("Acaba la descarga de mapas de la parte: "+str(args.part)+" a la hora: "+hora )
-        print("--------------Espera 15 min--------------")
+        print("--------------Espera 30 min--------------")
     driver.close()
 
 
