@@ -3,3 +3,998 @@ background-image: url("https://assets.ppy.sh/beatmaps/921889/covers/list.jpg?162
 background-image: url("https://assets.ppy.sh/beatmaps/781509/covers/list.jpg?1622139880");/Black Rover (TV Size) [NiNo's Insane] por Vickeblanka
 background-image: url("https://assets.ppy.sh/beatmaps/826125/covers/list.jpg?1533585160");/The Girls Are Alright! ~TV size~ [Insane] por [Sora yori mo Tooi Basho OP] saya
 background-image: url("https://assets.ppy.sh/beatmaps/310408/covers/list.jpg?1622086027");/Everyday World [Ky's Insane] por Yukinoshita Yukino (CV.Hayami Saori) & Yuigahama Yui (CV.Touyama Nao)
+background-image: url("https://assets.ppy.sh/beatmaps/652412/covers/list.jpg?1622123165");/Harumachi Clover [Insane] por Hanasaka Yui(CV: M.A.O)
+background-image: url("https://assets.ppy.sh/beatmaps/477685/covers/list.jpg?1622105871");/Button [Enjoy's Hard] por PENGUIN RESEARCH
+background-image: url("https://assets.ppy.sh/beatmaps/1424129/covers/list.jpg?1622208870");/Omoide Shiritori (TV Size) [Insane] por DIALOGUE+
+background-image: url("https://assets.ppy.sh/beatmaps/1123162/covers/list.jpg?1622183524");/Sore wa Chiisana Hikari no Youna (TV Size) [browiec's Expert] por Sayuri
+background-image: url("https://assets.ppy.sh/beatmaps/842412/covers/list.jpg?1622146604");/Harumachi Clover (Swing Arrangement) [Dictate Edit] [NiNo's Insane] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/478304/covers/list.jpg?1622105978");/miele paradiso [Left's Insane] por Iori Nomizu
+/Excuse My Rudeness, But Could You Please RIP?<3 (t+pazolite Remix) [Kowari & Pachiru's Hard] por Mori Calliope
+background-image: url("https://assets.ppy.sh/beatmaps/116306/covers/list.jpg?1622067686");/departure! (TV Size) [Hard] por Masatoshi Ono
+background-image: url("https://assets.ppy.sh/beatmaps/859608/covers/list.jpg?1622148566");/ADAMAS (TV Size) [Monstrata's Insane] por LiSA
+background-image: url("https://assets.ppy.sh/beatmaps/490956/covers/list.jpg?1622107285");/Tsukinami [pkhg's Insane] por Kanon Wakeshima
+background-image: url("https://assets.ppy.sh/beatmaps/1190710/covers/list.jpg?1622191199");/Realize (TV Size) [Kowari's Hard] por Suzuki Konomi
+background-image: url("https://assets.ppy.sh/beatmaps/1011341/covers/list.jpg?1622166940");/TEEN TITANS THEME (TV Size) [Insane] por Puffy AmiYumi
+background-image: url("https://assets.ppy.sh/beatmaps/606419/covers/list.jpg?1622118476");/My Sweet Maiden (TV-size) [bor's Hard] por Mia REGINA
+background-image: url("https://assets.ppy.sh/beatmaps/542081/covers/list.jpg?1622112215");/Cookie-Butter-Choco-Cookie [Haru's Insane] por Elmo and Cookie Monster
+background-image: url("https://assets.ppy.sh/beatmaps/720240/covers/list.jpg?1622131770");/Granat [milr_'s Insane] por Drop
+background-image: url("https://assets.ppy.sh/beatmaps/940726/covers/list.jpg?1622158320");/Uragirimono no Requiem (TV Size) [Insane] por Hasegawa Daisuke
+background-image: url("https://assets.ppy.sh/beatmaps/440706/covers/list.jpg?1622102277");/High Free Spirits -TV.Ver- [Enjoy's Insane] por TrySail
+background-image: url("https://assets.ppy.sh/beatmaps/895173/covers/list.jpg?1622152700");/The Girls Are Alright! (TV Size) [Insane] por saya
+background-image: url("https://assets.ppy.sh/beatmaps/1345977/covers/list.jpg?1622205073");/Long shot (TV Size) [Ayyri's Another] por Maeshima Mayu
+background-image: url("https://assets.ppy.sh/beatmaps/1270438/covers/list.jpg?1622198808");/Kaikai Kitan (TV Size) [Chiga's Hard] por Eve
+background-image: url("https://assets.ppy.sh/beatmaps/1326381/covers/list.jpg?1622203537");/MIND CONDUCTOR (TV Size) [Insane] por YURiKA
+background-image: url("https://assets.ppy.sh/beatmaps/735328/covers/list.jpg?1622133900");/GIRAFFE BLUES ~ Kaname Solo Requiem ~ [Missing You] por WALKUERE
+background-image: url("https://assets.ppy.sh/beatmaps/405053/covers/list.jpg?1622098942");/Junshin Always [Little's Insane] por Azusa Tadokoro
+background-image: url("https://assets.ppy.sh/beatmaps/572804/covers/list.jpg?1622115252");/Original. -TV Ver- [Yuria's Insane] por TrySail
+background-image: url("https://assets.ppy.sh/beatmaps/1372562/covers/list.jpg?1623791370");/EASY LOVE (TV Size) [KIRISHIMA-'S INSANE] por Uesaka Sumire
+background-image: url("https://assets.ppy.sh/beatmaps/697253/covers/list.jpg?1511368303");/Fake Town Baby [Extra] por Kekkai sensen & BEYOND(UNISON SQUARE GARDEN)
+background-image: url("https://assets.ppy.sh/beatmaps/116306/covers/list.jpg?1622067686");/departure! (TV Size) [Insane] por Masatoshi Ono
+background-image: url("https://assets.ppy.sh/beatmaps/43839/covers/list.jpg?1622053229");/Kyoumu Densen (TV Size) [Insane] por ALI PROJECT
+background-image: url("https://assets.ppy.sh/beatmaps/1513912/covers/list.jpg?1626617708");/Ai no Supreme! (TV Size) [Sing's Insane] por fhana
+background-image: url("https://assets.ppy.sh/beatmaps/1123162/covers/list.jpg?1622183524");/Sore wa Chiisana Hikari no Youna (TV Size) [Insane] por Sayuri
+background-image: url("https://assets.ppy.sh/beatmaps/57181/covers/list.jpg?1622058308");/Reason why XXX [Insane] por Sasaki Sayaka
+background-image: url("https://assets.ppy.sh/beatmaps/542081/covers/list.jpg?1622112215");/Cookie-Butter-Choco-Cookie [Cookie-Triangle-Spicy-Cookie] por Elmo and Cookie Monster
+background-image: url("https://assets.ppy.sh/beatmaps/765169/covers/list.jpg?1622137990");/(can you) understand me? [toybot's expert?] por Komiya Mao
+background-image: url("https://assets.ppy.sh/beatmaps/444335/covers/list.jpg?1622102631");/Kira Kira Days [Mamayu's Insane!!] por HO-KAGO TEA TIME
+background-image: url("https://assets.ppy.sh/beatmaps/1380176/covers/list.jpg?1622207213");/Grandeur (TV Size) [Hard] por Snow Man
+background-image: url("https://assets.ppy.sh/beatmaps/1329156/covers/list.jpg?1622203738");/Kaibutsu (TV Size) [Hard] por YOASOBI
+background-image: url("https://assets.ppy.sh/beatmaps/1171789/covers/list.jpg?1622188996");/Imagination (TV Size) [Insane] por SPYAIR
+background-image: url("https://assets.ppy.sh/beatmaps/919813/covers/list.jpg?1622155398");/DISCOTHEQUE [Cami's Insane~] por Pastel*Palettes
+background-image: url("https://assets.ppy.sh/beatmaps/172013/covers/list.jpg?1622073796");/Oracion(TV-Size) [wkyik's Insane] por Kayano Ai
+background-image: url("https://assets.ppy.sh/beatmaps/1004468/covers/list.jpg?1622166111");/Guinea Pig Bridge [Insane] por Parry Gripp
+background-image: url("https://assets.ppy.sh/beatmaps/859783/covers/list.jpg?1622148601");/Harumachi Clover (Swing Arrangement) [Mohab's Insane] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/842412/covers/list.jpg?1622146604");/Harumachi Clover (Swing Arrangement) [Dictate Edit] [Hyper] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/695005/covers/list.jpg?1622128342");/Another Heaven -game Ver.- [Yohanes' Insane] por earthmind
+background-image: url("https://assets.ppy.sh/beatmaps/481283/covers/list.jpg?1622106302");/Absolute Soul [Karia's Insane] por Suzuki Konomi
+background-image: url("https://assets.ppy.sh/beatmaps/337298/covers/list.jpg?1622090070");/Colorful.(AnimeVer.) [Insane] por Sawai Miku
+background-image: url("https://assets.ppy.sh/beatmaps/262343/covers/list.jpg?1622081696");/Kimiiro Signal-TV size ver.- [Insane] por Haruna Luna
+background-image: url("https://assets.ppy.sh/beatmaps/80659/covers/list.jpg?1622062516");/Kamisama Hajimemashita (TV Size) [Insane] por Hanae
+background-image: url("https://assets.ppy.sh/beatmaps/24565/covers/list.jpg?1622043119");/Connect (TV Size) [Crazy Jay] por ClariS
+background-image: url("https://assets.ppy.sh/beatmaps/1330497/covers/list.jpg?1611437416");/Going to Ride (Nozoki Ana Ending) [Insane] por predia
+background-image: url("https://assets.ppy.sh/beatmaps/542081/covers/list.jpg?1622112215");/Cookie-Butter-Choco-Cookie [Insane] por Elmo and Cookie Monster
+background-image: url("https://assets.ppy.sh/beatmaps/440706/covers/list.jpg?1622102277");/High Free Spirits -TV.Ver- [Extra] por TrySail
+background-image: url("https://assets.ppy.sh/beatmaps/140216/covers/list.jpg?1458282684");/One More Time, One More Chance [Hard] por Masayoshi Yamazaki
+background-image: url("https://assets.ppy.sh/beatmaps/894883/covers/list.jpg?1622152641");/Kani*Do-Luck! (TV Size) [Extra!] por Aiurabu
+background-image: url("https://assets.ppy.sh/beatmaps/606419/covers/list.jpg?1622118476");/My Sweet Maiden (TV-size) [Insane] por Mia REGINA
+background-image: url("https://assets.ppy.sh/beatmaps/262343/covers/list.jpg?1622081696");/Kimiiro Signal-TV size ver.- [Cloud's Hard] por Haruna Luna
+background-image: url("https://assets.ppy.sh/beatmaps/720223/covers/list.jpg?1622131762");/Iwanai kedo ne. [Garden's Insane] por Yuiko Ohara
+background-image: url("https://assets.ppy.sh/beatmaps/24565/covers/list.jpg?1622043119");/Connect (TV Size) [Hard] por ClariS
+background-image: url("https://assets.ppy.sh/beatmaps/1274360/covers/list.jpg?1622199140");/I believe what you said (TV Size) [Hard] por Asaka
+background-image: url("https://assets.ppy.sh/beatmaps/814033/covers/list.jpg?1622143682");/One Room Sugar Life (TV Size) [Civil oath's Hard] por Nanawo Akari
+background-image: url("https://assets.ppy.sh/beatmaps/814033/covers/list.jpg?1622143682");/One Room Sugar Life (TV Size) [Insane] por Nanawo Akari
+background-image: url("https://assets.ppy.sh/beatmaps/480765/covers/list.jpg?1622106238");/Bye Bye YESTERDAY [Nhawak's Extra] por 3 Nen E Gumi Utatan (Nagisa & Kayano & Karuma & Isogai & Maehara)
+background-image: url("https://assets.ppy.sh/beatmaps/1424129/covers/list.jpg?1622208870");/Omoide Shiritori (TV Size) [Hard] por DIALOGUE+
+background-image: url("https://assets.ppy.sh/beatmaps/1274360/covers/list.jpg?1622199140");/I believe what you said (TV Size) [Endless Future] por Asaka
+background-image: url("https://assets.ppy.sh/beatmaps/858938/covers/list.jpg?1622148472");/RISE (ft. The Glitch Mob, Mako, and The Word Alive) [Zelq's Light Insane] por League of Legends
+background-image: url("https://assets.ppy.sh/beatmaps/1372562/covers/list.jpg?1623791370");/EASY LOVE (TV Size) [HARD] por Uesaka Sumire
+background-image: url("https://assets.ppy.sh/beatmaps/1193921/covers/list.jpg?1622191557");/Kokuhaku Bungee Jumping (TV Size) [Hard] por halca
+background-image: url("https://assets.ppy.sh/beatmaps/954067/covers/list.jpg?1573994930");/Ultimate*MAGIC (TV Size) [Ipas' Insane] por i*Ris
+background-image: url("https://assets.ppy.sh/beatmaps/332952/covers/list.jpg?1622088826");/Bravely You (TV Size) [Insane] por Lia
+background-image: url("https://assets.ppy.sh/beatmaps/1363149/covers/list.jpg?1629256518");/Tabibito no Uta (TV Size) [Insane] por Ohara Yuiko
+background-image: url("https://assets.ppy.sh/beatmaps/1193921/covers/list.jpg?1622191557");/Kokuhaku Bungee Jumping (TV Size) [Amateurre's Insane] por halca
+background-image: url("https://assets.ppy.sh/beatmaps/1190710/covers/list.jpg?1622191199");/Realize (TV Size) [Reform's Expert] por Suzuki Konomi
+background-image: url("https://assets.ppy.sh/beatmaps/975380/covers/list.jpg?1558655820");/Emotional Prism [Hard] por BIGWAVE
+background-image: url("https://assets.ppy.sh/beatmaps/842412/covers/list.jpg?1622146604");/Harumachi Clover (Swing Arrangement) [Dictate Edit] [Oh no!] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/1363149/covers/list.jpg?1629256518");/Tabibito no Uta (TV Size) [ImpureDog's Insane] por Ohara Yuiko
+background-image: url("https://assets.ppy.sh/beatmaps/595827/covers/list.jpg?1622117462");/Stella Breeze (TV Size) [Insane] por Haruna Luna
+background-image: url("https://assets.ppy.sh/beatmaps/310408/covers/list.jpg?1622086027");/Everyday World [Insane] por Yukinoshita Yukino (CV.Hayami Saori) & Yuigahama Yui (CV.Touyama Nao)
+background-image: url("https://assets.ppy.sh/beatmaps/1206286/covers/list.jpg?1622192774");/Centimeter (TV Size) [Diamond] por the peggies
+background-image: url("https://assets.ppy.sh/beatmaps/921889/covers/list.jpg?1622155646");/Chikatto Chika Chika (TV Size) [Chika] por Fujiwara Chika (CV: Kohara Konomi)
+background-image: url("https://assets.ppy.sh/beatmaps/481696/covers/list.jpg?1622106356");/DEAD OR LIE <TV Size> [Frey's Insane] por Maon Kurosaki feat.TRUSTRICK
+background-image: url("https://assets.ppy.sh/beatmaps/440706/covers/list.jpg?1622102277");/High Free Spirits -TV.Ver- [xxdeathx's Insane] por TrySail
+background-image: url("https://assets.ppy.sh/beatmaps/63458/covers/list.jpg?1622059719");/SELF PRODUCER (TV Size) [Ryafuka's Insane] por Chihara Minori
+background-image: url("https://assets.ppy.sh/beatmaps/12756/covers/list.jpg?1622031936");/Shunkan Sentimental (TV Size) [Breeze's Difficulty] por SCANDAL
+background-image: url("https://assets.ppy.sh/beatmaps/596228/covers/list.jpg?1493893014");/Shocking Blue [Hard] por Ito Miku
+background-image: url("https://assets.ppy.sh/beatmaps/596228/covers/list.jpg?1493893014");/Shocking Blue [Insane] por Ito Miku
+background-image: url("https://assets.ppy.sh/beatmaps/531938/covers/list.jpg?1622111142");/Hikari Are (Anime Version) [Pata-Mon's Hard] por BURNOUT SYNDROMES
+background-image: url("https://assets.ppy.sh/beatmaps/490956/covers/list.jpg?1622107285");/Tsukinami [Kanau's Insane] por Kanon Wakeshima
+background-image: url("https://assets.ppy.sh/beatmaps/129299/covers/list.jpg?1622069189");/Hyouri Ittai (TV Size) [Insane] por Yuzu
+background-image: url("https://assets.ppy.sh/beatmaps/24135/covers/list.jpg?1622042738");/Silky Heart (TV Size) [Ami-Insane] por Yui Horie
+background-image: url("https://assets.ppy.sh/beatmaps/858503/covers/list.jpg?1623853830");/Gamushara (TV Size) [Chizu's Insane] por Miyuna
+background-image: url("https://assets.ppy.sh/beatmaps/1241266/covers/list.jpg?1622195896");/Spectacular Spider-Man Theme (TV Size) [Insane] por The Tender Box
+background-image: url("https://assets.ppy.sh/beatmaps/63222/covers/list.jpg?1622059676");/Yasashisa no Riyuu [Insane] por ChouCho
+background-image: url("https://assets.ppy.sh/beatmaps/652412/covers/list.jpg?1622123165");/Harumachi Clover [ReFaller's Light Insane] por Hanasaka Yui(CV: M.A.O)
+background-image: url("https://assets.ppy.sh/beatmaps/129299/covers/list.jpg?1622069189");/Hyouri Ittai (TV Size) [Hard] por Yuzu
+background-image: url("https://assets.ppy.sh/beatmaps/1349969/covers/list.jpg?1613608265");/Tabibito no Uta [Hard] por Yuiko Ohara
+background-image: url("https://assets.ppy.sh/beatmaps/921889/covers/list.jpg?1622155646");/Chikatto Chika Chika (TV Size) [Hazu's Expert] por Fujiwara Chika (CV: Kohara Konomi)
+background-image: url("https://assets.ppy.sh/beatmaps/408488/covers/list.jpg?1483359880");/Decent Black [Hard] por Oshino Ougi (Mizuhashi Kaori)
+background-image: url("https://assets.ppy.sh/beatmaps/1090605/covers/list.jpg?1616556686");/CHAIN (TV Size) [Lapis Lazuli Ring] por ASCA
+background-image: url("https://assets.ppy.sh/beatmaps/1089606/covers/list.jpg?1622178662");/Black Catcher (TV Size) [FuJu's Insane] por Vickeblanka
+background-image: url("https://assets.ppy.sh/beatmaps/1053509/covers/list.jpg?1622172287");/HIKARI (TV Size) [Extra] por ViViD
+background-image: url("https://assets.ppy.sh/beatmaps/596704/covers/list.jpg?1622117570");/Hitorigoto -TV MIX- [Xxdeathx's Insane] por ClariS
+background-image: url("https://assets.ppy.sh/beatmaps/444335/covers/list.jpg?1622102631");/Kira Kira Days [pkhg's Insane!!] por HO-KAGO TEA TIME
+background-image: url("https://assets.ppy.sh/beatmaps/56297/covers/list.jpg?1622058055");/Platinum 17 (TV Size) [Hentai] por yozuca*
+background-image: url("https://assets.ppy.sh/beatmaps/1190710/covers/list.jpg?1622191199");/Realize (TV Size) [Basen's Normal] por Suzuki Konomi
+background-image: url("https://assets.ppy.sh/beatmaps/921889/covers/list.jpg?1622155646");/Chikatto Chika Chika (TV Size) [Yuria's Normal] por Fujiwara Chika (CV: Kohara Konomi)
+background-image: url("https://assets.ppy.sh/beatmaps/1372562/covers/list.jpg?1623791370");/EASY LOVE (TV Size) [TEASING MASTER] por Uesaka Sumire
+background-image: url("https://assets.ppy.sh/beatmaps/842412/covers/list.jpg?1622146604");/Harumachi Clover (Swing Arrangement) [Dictate Edit] [Light Insane] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/262343/covers/list.jpg?1622081696");/Kimiiro Signal-TV size ver.- [No Dap's Hard] por Haruna Luna
+background-image: url("https://assets.ppy.sh/beatmaps/1329156/covers/list.jpg?1622203738");/Kaibutsu (TV Size) [Insane] por YOASOBI
+background-image: url("https://assets.ppy.sh/beatmaps/1326381/covers/list.jpg?1622203537");/MIND CONDUCTOR (TV Size) [Believer] por YURiKA
+background-image: url("https://assets.ppy.sh/beatmaps/1190710/covers/list.jpg?1622191199");/Realize (TV Size) [Eli's Insane] por Suzuki Konomi
+background-image: url("https://assets.ppy.sh/beatmaps/895173/covers/list.jpg?1622152700");/The Girls Are Alright! (TV Size) [Hard] por saya
+background-image: url("https://assets.ppy.sh/beatmaps/1178935/covers/list.jpg?1622189920");/Yubi Bouenkyou (TV Size) [Hooni's Insane] por Nogizaka46
+background-image: url("https://assets.ppy.sh/beatmaps/1053509/covers/list.jpg?1622172287");/HIKARI (TV Size) [browiec's Insane] por ViViD
+background-image: url("https://assets.ppy.sh/beatmaps/596704/covers/list.jpg?1622117570");/Hitorigoto -TV MIX- [Soliloquy] por ClariS
+background-image: url("https://assets.ppy.sh/beatmaps/1178935/covers/list.jpg?1622189920");/Yubi Bouenkyou (TV Size) [Glaceon's Extra] por Nogizaka46
+background-image: url("https://assets.ppy.sh/beatmaps/1090605/covers/list.jpg?1616556686");/CHAIN (TV Size) [Ruby Ring] por ASCA
+background-image: url("https://assets.ppy.sh/beatmaps/1011341/covers/list.jpg?1622166940");/TEEN TITANS THEME (TV Size) [Teen Titans GO!] por Puffy AmiYumi
+background-image: url("https://assets.ppy.sh/beatmaps/921889/covers/list.jpg?1622155646");/Chikatto Chika Chika (TV Size) [thzz's Hard] por Fujiwara Chika (CV: Kohara Konomi)
+background-image: url("https://assets.ppy.sh/beatmaps/780651/covers/list.jpg?1622139777");/Harumachi Clover (TV Size) [Koa%wer Clover] por Hanasaka Yui (CV: M.A.O) feat. Koalazy
+background-image: url("https://assets.ppy.sh/beatmaps/586841/covers/list.jpg?1622116460");/RHAPSODY OF BLUE SKY [Pata-Mon's Insane] por fhana
+background-image: url("https://assets.ppy.sh/beatmaps/542081/covers/list.jpg?1622112215");/Cookie-Butter-Choco-Cookie [Sotarks' Insane] por Elmo and Cookie Monster
+background-image: url("https://assets.ppy.sh/beatmaps/1356098/covers/list.jpg?1622205847");/Zankoku na Yume to Nemure (TV Size) [Hard] por Kuribayashi Minami
+background-image: url("https://assets.ppy.sh/beatmaps/1345755/covers/list.jpg?1630332618");/Ganbare! Kumoko-san no Thema (TV Size) [Silent's Hard] por Watashi (CV: Yuuki Aoi)
+background-image: url("https://assets.ppy.sh/beatmaps/865571/covers/list.jpg?1619217012");/Houkago Di(e)stra(u)ction (TV Size) [Insane] por Etsuko Yakushimaru
+background-image: url("https://assets.ppy.sh/beatmaps/1002317/covers/list.jpg?1622165884");/MUKANJYO (TV Size) [Insane] por Survive Said The Prophet
+background-image: url("https://assets.ppy.sh/beatmaps/998427/covers/list.jpg?1622165284");/Good Morning World! (TV Size) [Insane] por BURNOUT SYNDROMES
+background-image: url("https://assets.ppy.sh/beatmaps/914766/covers/list.jpg?1553898484");/M flat [Flat] por Kato Megumi (CV: Yasuno Kiyono)
+background-image: url("https://assets.ppy.sh/beatmaps/920575/covers/list.jpg?1565565383");/Fanfare [Meep's Hard] por sumika
+background-image: url("https://assets.ppy.sh/beatmaps/477685/covers/list.jpg?1622105871");/Button [Insane] por PENGUIN RESEARCH
+background-image: url("https://assets.ppy.sh/beatmaps/1429219/covers/list.jpg?1623223831");/Guda Fuwa Everyday (TV Size) [Shiawase~] por Yuuki Aoi
+background-image: url("https://assets.ppy.sh/beatmaps/1384619/covers/list.jpg?1622207374");/Kira Kira Days (Cut Ver.) [Reform's Expert] por HO-KAGO TEA TIME
+background-image: url("https://assets.ppy.sh/beatmaps/1174505/covers/list.jpg?1622189308");/Angel With A Shotgun (Sped Up Ver.) [Insane] por The Cab
+background-image: url("https://assets.ppy.sh/beatmaps/1099283/covers/list.jpg?1595361641");/Star Marker (TV Size) [HausenAdventure's Light Insane] por KANA-BOON
+background-image: url("https://assets.ppy.sh/beatmaps/1004468/covers/list.jpg?1622166111");/Guinea Pig Bridge [Reform's Expert] por Parry Gripp
+background-image: url("https://assets.ppy.sh/beatmaps/981859/covers/list.jpg?1622163297");/Koise yo Minna, Hai! (TV Size) [Insane] por Pyxis
+background-image: url("https://assets.ppy.sh/beatmaps/954067/covers/list.jpg?1573994930");/Ultimate*MAGIC (TV Size) [Peter's Hard] por i*Ris
+background-image: url("https://assets.ppy.sh/beatmaps/685287/covers/list.jpg?1622126994");/Shiny Ray -TV size- [Extra] por YURiKA
+background-image: url("https://assets.ppy.sh/beatmaps/634231/covers/list.jpg?1622121204");/Seishun Prologue [Shad0w1and's Insane] por Moso Calibration
+background-image: url("https://assets.ppy.sh/beatmaps/506771/covers/list.jpg?1622108666");/Kamiiro Awase [Insane] por binaria
+background-image: url("https://assets.ppy.sh/beatmaps/1380176/covers/list.jpg?1622207213");/Grandeur (TV Size) [Insane] por Snow Man
+background-image: url("https://assets.ppy.sh/beatmaps/1356098/covers/list.jpg?1622205847");/Zankoku na Yume to Nemure (TV Size) [Insane] por Kuribayashi Minami
+background-image: url("https://assets.ppy.sh/beatmaps/1210297/covers/list.jpg?1622193122");/DORAEMON [Kuki's Insane ft. browiec] por Amatsuki
+background-image: url("https://assets.ppy.sh/beatmaps/1117986/covers/list.jpg?1617120031");/Black Rover (Swing Arrangement) [GAO HAO's Extra] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/1123162/covers/list.jpg?1622183524");/Sore wa Chiisana Hikari no Youna (TV Size) [Revival] por Sayuri
+background-image: url("https://assets.ppy.sh/beatmaps/1089606/covers/list.jpg?1622178662");/Black Catcher (TV Size) [Hard] por Vickeblanka
+background-image: url("https://assets.ppy.sh/beatmaps/1004378/covers/list.jpg?1622166073");/Fanfare [Insane] por sumika
+background-image: url("https://assets.ppy.sh/beatmaps/859783/covers/list.jpg?1622148601");/Harumachi Clover (Swing Arrangement) [Expert] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/695005/covers/list.jpg?1622128342");/Another Heaven -game Ver.- [Collab Expert] por earthmind
+background-image: url("https://assets.ppy.sh/beatmaps/610987/covers/list.jpg?1622118911");/Sakurairo Diary [Akitoshi's Insane] por Moso Calibration
+background-image: url("https://assets.ppy.sh/beatmaps/337298/covers/list.jpg?1622090070");/Colorful.(AnimeVer.) [Chris' Dreams] por Sawai Miku
+background-image: url("https://assets.ppy.sh/beatmaps/720240/covers/list.jpg?1622131770");/Granat [Splz's Extra] por Drop
+background-image: url("https://assets.ppy.sh/beatmaps/689957/covers/list.jpg?1622127567");/My Hero [Forest's Insane] por MAN WITH A MISSION
+background-image: url("https://assets.ppy.sh/beatmaps/679940/covers/list.jpg?1622126327");/Happy*Material [Insane] por Takakura Yuka, Hirose Yuuki, Kayano Ai, Ogura Yui, Harada Sayaka, Kito Akari
+background-image: url("https://assets.ppy.sh/beatmaps/652412/covers/list.jpg?1622123165");/Harumachi Clover [Fiery's Extra] por Hanasaka Yui(CV: M.A.O)
+background-image: url("https://assets.ppy.sh/beatmaps/511758/covers/list.jpg?1622109165");/Hikari no Hahen [Insane] por Takahashi Yu
+background-image: url("https://assets.ppy.sh/beatmaps/474376/covers/list.jpg?1622105443");/Sore wa Chiisana Hikari no Youna [konG's Insane] por Sayuri
+background-image: url("https://assets.ppy.sh/beatmaps/62852/covers/list.jpg?1622059611");/only my railgun (TV size) [cRyo's Hard] por fripSide
+background-image: url("https://assets.ppy.sh/beatmaps/1452361/covers/list.jpg?1625198462");/Colorful Canvas (TV Size) [Insane] por Nagatoro-san and Friends
+background-image: url("https://assets.ppy.sh/beatmaps/1435069/covers/list.jpg?1622529000");/Omoide Shiritori (TV Size) [Insane] por DIALOGUE+
+background-image: url("https://assets.ppy.sh/beatmaps/1381677/covers/list.jpg?1622050131");/Irokousui (TV Size) [Perfume] por Kamiyama Yoh
+background-image: url("https://assets.ppy.sh/beatmaps/1214699/covers/list.jpg?1622193527");/Himitsu (movie ver.) [Hard] por sumika
+background-image: url("https://assets.ppy.sh/beatmaps/1214699/covers/list.jpg?1622193527");/Himitsu (movie ver.) [Under the Fireworks] por sumika
+background-image: url("https://assets.ppy.sh/beatmaps/909759/covers/list.jpg?1622154272");/RESISTER (TV Size) [Reform's EXPERT] por ASCA
+background-image: url("https://assets.ppy.sh/beatmaps/859783/covers/list.jpg?1622148601");/Harumachi Clover (Swing Arrangement) [Wiz Khalifa's Insane] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/842412/covers/list.jpg?1622146604");/Harumachi Clover (Swing Arrangement) [Dictate Edit] [Expert] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/635275/covers/list.jpg?1622121307");/Kanashii Ureshii [Love] por FREDERIC
+background-image: url("https://assets.ppy.sh/beatmaps/466758/covers/list.jpg?1622104794");/duvet TV sized [Polka's Hyper] por boa
+background-image: url("https://assets.ppy.sh/beatmaps/542081/covers/list.jpg?1622112215");/Cookie-Butter-Choco-Cookie [Hard] por Elmo and Cookie Monster
+background-image: url("https://assets.ppy.sh/beatmaps/506771/covers/list.jpg?1622108666");/Kamiiro Awase [wkyik's Light Insane] por binaria
+background-image: url("https://assets.ppy.sh/beatmaps/222253/covers/list.jpg?1622078502");/OVERLAPPERS [Kibbleru's Insane] por Qverktett:||
+background-image: url("https://assets.ppy.sh/beatmaps/121048/covers/list.jpg?1622068331");/Golden Time [Insane] por Horie Yui
+background-image: url("https://assets.ppy.sh/beatmaps/104437/covers/list.jpg?1622066083");/God only knows -Secrets of the Goddess- (Extract) [Insane] por Oratorio The World God Only Knows
+background-image: url("https://assets.ppy.sh/beatmaps/948360/covers/list.jpg?1622159122");/Kono Yubi Tomare (TV Size) [Hard] por JUNNA
+background-image: url("https://assets.ppy.sh/beatmaps/876227/covers/list.jpg?1631511065");/Mechanic Heartbeat [Sinnoh's Hard] por Culprate, Keota & Sophie Meiers
+background-image: url("https://assets.ppy.sh/beatmaps/596704/covers/list.jpg?1622117570");/Hitorigoto -TV MIX- [Little's Insane] por ClariS
+background-image: url("https://assets.ppy.sh/beatmaps/596704/covers/list.jpg?1622117570");/Hitorigoto -TV MIX- [Insane] por ClariS
+background-image: url("https://assets.ppy.sh/beatmaps/542081/covers/list.jpg?1622112215");/Cookie-Butter-Choco-Cookie [Gero's Hard] por Elmo and Cookie Monster
+background-image: url("https://assets.ppy.sh/beatmaps/542081/covers/list.jpg?1622112215");/Cookie-Butter-Choco-Cookie [Ren's Insane] por Elmo and Cookie Monster
+background-image: url("https://assets.ppy.sh/beatmaps/542081/covers/list.jpg?1622112215");/Cookie-Butter-Choco-Cookie [Linada's Insane] por Elmo and Cookie Monster
+background-image: url("https://assets.ppy.sh/beatmaps/408488/covers/list.jpg?1483359880");/Decent Black [Insane] por Oshino Ougi (Mizuhashi Kaori)
+background-image: url("https://assets.ppy.sh/beatmaps/392324/covers/list.jpg?1622097580");/SHIVER [Advanced] por Lucy Rose
+background-image: url("https://assets.ppy.sh/beatmaps/368985/covers/list.jpg?1622095377");/Kuchizuke Diamond [Tenseki's Insane] por WEAVER
+background-image: url("https://assets.ppy.sh/beatmaps/1368923/covers/list.jpg?1622206603");/Iro Kousui (TV Size) [Fragrance] por Kamiyama Yoh
+background-image: url("https://assets.ppy.sh/beatmaps/1342479/covers/list.jpg?1622204814");/Storyteller (TV Size) [Expert] por TRUE
+background-image: url("https://assets.ppy.sh/beatmaps/1174505/covers/list.jpg?1622189308");/Angel With A Shotgun (Sped Up Ver.) [Sacred Bullet] por The Cab
+background-image: url("https://assets.ppy.sh/beatmaps/1099283/covers/list.jpg?1595361641");/Star Marker (TV Size) [Hard] por KANA-BOON
+background-image: url("https://assets.ppy.sh/beatmaps/1093207/covers/list.jpg?1622179247");/No.7 (TV Size) [Insane] por Jibaku Shounen Band
+background-image: url("https://assets.ppy.sh/beatmaps/1089606/covers/list.jpg?1622178662");/Black Catcher (TV Size) [Black Divider] por Vickeblanka
+background-image: url("https://assets.ppy.sh/beatmaps/1047733/covers/list.jpg?1622171388");/Sangenshoku (TV Size) [Insane] por PELICAN FANCLUB
+background-image: url("https://assets.ppy.sh/beatmaps/1004378/covers/list.jpg?1622166073");/Fanfare [Hard] por sumika
+background-image: url("https://assets.ppy.sh/beatmaps/1003489/covers/list.jpg?1623077979");/Love with You (TV Size) [Insane] por fripSide
+background-image: url("https://assets.ppy.sh/beatmaps/909759/covers/list.jpg?1622154272");/RESISTER (TV Size) [SMOKELIND's INSANE] por ASCA
+background-image: url("https://assets.ppy.sh/beatmaps/859783/covers/list.jpg?1622148601");/Harumachi Clover (Swing Arrangement) [Fiery's Extreme] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/859783/covers/list.jpg?1622148601");/Harumachi Clover (Swing Arrangement) [Yuri's Normal] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/859783/covers/list.jpg?1622148601");/Harumachi Clover (Swing Arrangement) [Insane] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/780651/covers/list.jpg?1622139777");/Harumachi Clover (TV Size) [Extra] por Hanasaka Yui (CV: M.A.O) feat. Koalazy
+background-image: url("https://assets.ppy.sh/beatmaps/733753/covers/list.jpg?1622133677");/Kisetsu o Dakishimete [Takaramono] por Katou Megumi (CV: Yasuno Kiyono)
+background-image: url("https://assets.ppy.sh/beatmaps/652412/covers/list.jpg?1622123165");/Harumachi Clover [Mk's Light Insane] por Hanasaka Yui(CV: M.A.O)
+background-image: url("https://assets.ppy.sh/beatmaps/405053/covers/list.jpg?1622098942");/Junshin Always [ZZHBOY's Hard] por Azusa Tadokoro
+background-image: url("https://assets.ppy.sh/beatmaps/165743/covers/list.jpg?1622073188");/daze [Rare's Hard] por Jin ft. MARiA from GARNiDELiA
+background-image: url("https://assets.ppy.sh/beatmaps/62852/covers/list.jpg?1622059611");/only my railgun (TV size) [Insane] por fripSide
+background-image: url("https://assets.ppy.sh/beatmaps/1354754/covers/list.jpg?1617741097");/Rakuen (TV Size) [Appe's Stone Wars] por Fujifabric
+background-image: url("https://assets.ppy.sh/beatmaps/1225198/covers/list.jpg?1622194397");/Gallop (TV Size) [synderes' Insane] por pe'zmoku
+background-image: url("https://assets.ppy.sh/beatmaps/1091540/covers/list.jpg?1578602610");/Kokoro no Furiko [Normal] por Yu Serizawa
+background-image: url("https://assets.ppy.sh/beatmaps/474376/covers/list.jpg?1622105443");/Sore wa Chiisana Hikari no Youna [Review] por Sayuri
+background-image: url("https://assets.ppy.sh/beatmaps/440706/covers/list.jpg?1622102277");/High Free Spirits -TV.Ver- [Skystar's Extra] por TrySail
+background-image: url("https://assets.ppy.sh/beatmaps/85040/covers/list.jpg?1622063156");/No brand girls (TV Size) [Hard] por u's
+background-image: url("https://assets.ppy.sh/beatmaps/1353578/covers/list.jpg?1622205698");/Only (TV Size) [Insane] por Ohara Yuiko
+background-image: url("https://assets.ppy.sh/beatmaps/1246100/covers/list.jpg?1623331096");/Doro no Bunzai de Watashi dake no Taisetsu o Ubaouda nante [Silent's Hard] por TUYU
+background-image: url("https://assets.ppy.sh/beatmaps/1206286/covers/list.jpg?1622192774");/Centimeter (TV Size) [FuJu's Hard] por the peggies
+background-image: url("https://assets.ppy.sh/beatmaps/998427/covers/list.jpg?1622165284");/Good Morning World! (TV Size) [Hard] por BURNOUT SYNDROMES
+background-image: url("https://assets.ppy.sh/beatmaps/685287/covers/list.jpg?1622126994");/Shiny Ray -TV size- [Insane] por YURiKA
+background-image: url("https://assets.ppy.sh/beatmaps/614131/covers/list.jpg?1501161250");/my time (OMORI Ver.) [Can I sleep now?] por bo en
+background-image: url("https://assets.ppy.sh/beatmaps/596704/covers/list.jpg?1622117570");/Hitorigoto -TV MIX- [StarR-sensei's Insane] por ClariS
+background-image: url("https://assets.ppy.sh/beatmaps/480765/covers/list.jpg?1622106238");/Bye Bye YESTERDAY [Voli's Hard] por 3 Nen E Gumi Utatan (Nagisa & Kayano & Karuma & Isogai & Maehara)
+background-image: url("https://assets.ppy.sh/beatmaps/593620/covers/list.jpg?1622117166");/Shinzou o Sasageyo! [TV Size] [Light Insane] por Linked Horizon
+background-image: url("https://assets.ppy.sh/beatmaps/478304/covers/list.jpg?1622105978");/miele paradiso [Insane] por Iori Nomizu
+background-image: url("https://assets.ppy.sh/beatmaps/302799/covers/list.jpg?1622085107");/Hello,world! [Insane] por BUMP OF CHICKEN
+background-image: url("https://assets.ppy.sh/beatmaps/1339074/covers/list.jpg?1631516792");/Over the limit [Hard] por Imy
+background-image: url("https://assets.ppy.sh/beatmaps/1161268/covers/list.jpg?1596632425");/Avant-Garde History [Dunno] por Roselia
+background-image: url("https://assets.ppy.sh/beatmaps/1090605/covers/list.jpg?1616556686");/CHAIN (TV Size) [Ascended's Peridot Ring] por ASCA
+background-image: url("https://assets.ppy.sh/beatmaps/981859/covers/list.jpg?1622163297");/Koise yo Minna, Hai! (TV Size) [Hard] por Pyxis
+background-image: url("https://assets.ppy.sh/beatmaps/868749/covers/list.jpg?1622149644");/Fukashigi no Karte [Uyamuya] por Seishun Buta Yarou Cast
+background-image: url("https://assets.ppy.sh/beatmaps/614131/covers/list.jpg?1501161250");/my time (OMORI Ver.) [Can I remap now?] por bo en
+background-image: url("https://assets.ppy.sh/beatmaps/165743/covers/list.jpg?1622073188");/daze [Nyquill's Insane] por Jin ft. MARiA from GARNiDELiA
+background-image: url("https://assets.ppy.sh/beatmaps/115873/covers/list.jpg?1622067641");/BLOODY STREAM (TV Size) [Bloody] por Coda
+background-image: url("https://assets.ppy.sh/beatmaps/44591/covers/list.jpg?1622053618");/Electric Love (Short Ver.) [Insane] por Hatsune Miku
+background-image: url("https://assets.ppy.sh/beatmaps/10067/covers/list.jpg?1622028696");/only my railgun (TV Size) [Insane] por fripSide
+background-image: url("https://assets.ppy.sh/beatmaps/1447199/covers/list.jpg?1624149056");/Guda Fuwa Everyday (TV Size) [Hard] por Yuuki Aoi
+background-image: url("https://assets.ppy.sh/beatmaps/1117986/covers/list.jpg?1617120031");/Black Rover (Swing Arrangement) [icytors' Extreme] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/1092306/covers/list.jpg?1622179114");/PHOENIX (TV Size) [TO LIGHT INSANE!] por BURNOUT SYNDROMES
+background-image: url("https://assets.ppy.sh/beatmaps/998427/covers/list.jpg?1622165284");/Good Morning World! (TV Size) [SquareTude's Extra] por BURNOUT SYNDROMES
+background-image: url("https://assets.ppy.sh/beatmaps/914766/covers/list.jpg?1553898484");/M flat [Shady's Insane] por Kato Megumi (CV: Yasuno Kiyono)
+background-image: url("https://assets.ppy.sh/beatmaps/890279/covers/list.jpg?1622152158");/Star light, Star bright (TV Size) [Hard] por nano
+background-image: url("https://assets.ppy.sh/beatmaps/848090/covers/list.jpg?1622147312");/DAI*TAN SENSATION feat. Nanahira, Mii, Aitsuki Nakuru (Short Ver.) [Andrea's Insane] por Trial & Error
+background-image: url("https://assets.ppy.sh/beatmaps/592713/covers/list.jpg?1504805011");/Identity (TV Size) [Hard] por Mikio Sakai
+background-image: url("https://assets.ppy.sh/beatmaps/564538/covers/list.jpg?1563551536");/Jump Training Collection #4 [Level 2 - Miss Wanna-Die] por Various Artists
+background-image: url("https://assets.ppy.sh/beatmaps/444335/covers/list.jpg?1622102631");/Kira Kira Days [Milan-'s Extra!!] por HO-KAGO TEA TIME
+background-image: url("https://assets.ppy.sh/beatmaps/239923/covers/list.jpg?0");/Welcome to the X dimension (TVS) [Hard] por Yakushimaru Etsuko
+background-image: url("https://assets.ppy.sh/beatmaps/222253/covers/list.jpg?1622078502");/OVERLAPPERS [Awaken] por Qverktett:||
+background-image: url("https://assets.ppy.sh/beatmaps/172013/covers/list.jpg?1622073796");/Oracion(TV-Size) [Chirony's Hard] por Kayano Ai
+background-image: url("https://assets.ppy.sh/beatmaps/95638/covers/list.jpg?1622064761");/Just Awake (TV Size) [Hard] por Fear, and Loathing in Las Vegas
+background-image: url("https://assets.ppy.sh/beatmaps/55436/covers/list.jpg?1622057782");/crossing field (TV Size) [Hard] por LiSA
+background-image: url("https://assets.ppy.sh/beatmaps/38459/covers/list.jpg?1622050540");/Kuusou Mesorogiwi (TV Size) [Hard] por Yousei Teikoku
+background-image: url("https://assets.ppy.sh/beatmaps/1430235/covers/list.jpg?1626393059");/Yume o Kakeru! (TV Size) [Queen & Emperor] por Spica
+background-image: url("https://assets.ppy.sh/beatmaps/1399793/covers/list.jpg?1622208049");/Saga Jihen [Asagi's Expert] por Hoshimachi Suisei with Hololive Fantasy
+background-image: url("https://assets.ppy.sh/beatmaps/1177637/covers/list.jpg?1592715660");/Love me science [Insane] por Serizawa Yuu
+background-image: url("https://assets.ppy.sh/beatmaps/1171789/covers/list.jpg?1622188996");/Imagination (TV Size) [Extra] por SPYAIR
+background-image: url("https://assets.ppy.sh/beatmaps/895391/covers/list.jpg?1622152715");/Sunflower [Insane] por Post Malone, Swae Lee
+background-image: url("https://assets.ppy.sh/beatmaps/842412/covers/list.jpg?1622146604");/Harumachi Clover (Swing Arrangement) [Dictate Edit] [Insane] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/720223/covers/list.jpg?1622131762");/Iwanai kedo ne. [Ohwow's Hard] por Yuiko Ohara
+background-image: url("https://assets.ppy.sh/beatmaps/480765/covers/list.jpg?1622106238");/Bye Bye YESTERDAY [Advanced] por 3 Nen E Gumi Utatan (Nagisa & Kayano & Karuma & Isogai & Maehara)
+background-image: url("https://assets.ppy.sh/beatmaps/592713/covers/list.jpg?1504805011");/Identity (TV Size) [Normal+] por Mikio Sakai
+background-image: url("https://assets.ppy.sh/beatmaps/478304/covers/list.jpg?1622105978");/miele paradiso [Pata-Mon's Hard] por Iori Nomizu
+background-image: url("https://assets.ppy.sh/beatmaps/444335/covers/list.jpg?1622102631");/Kira Kira Days [Hard!!] por HO-KAGO TEA TIME
+background-image: url("https://assets.ppy.sh/beatmaps/335534/covers/list.jpg?1622089627");/Pride Kakumei [Natsu's Hard] por CHiCO with HoneyWorks
+background-image: url("https://assets.ppy.sh/beatmaps/282345/covers/list.jpg?1622082761");/7 -seven- -TV SIZE - [Insane] por FLOWxGRANRODEO
+background-image: url("https://assets.ppy.sh/beatmaps/160201/covers/list.jpg?1622072592");/This game (TV Size) [Nyquill's Insane Game] por Suzuki Konomi
+background-image: url("https://assets.ppy.sh/beatmaps/63458/covers/list.jpg?1622059719");/SELF PRODUCER (TV Size) [Hard] por Chihara Minori
+background-image: url("https://assets.ppy.sh/beatmaps/1254212/covers/list.jpg?1619791224");/Fukashigi no Carte [I just want to be loved] por Seishun Buta Yarou Cast
+background-image: url("https://assets.ppy.sh/beatmaps/1048325/covers/list.jpg?1622171445");/Dark Crow (TV Size) [Hard] por MAN WITH A MISSION
+background-image: url("https://assets.ppy.sh/beatmaps/948360/covers/list.jpg?1622159122");/Kono Yubi Tomare (TV Size) [Insane] por JUNNA
+background-image: url("https://assets.ppy.sh/beatmaps/816264/covers/list.jpg?1622143933");/MY REZHEM KINOLENTY (feat. Cut The Crap) [CUT THE INSANE] por 55x55
+background-image: url("https://assets.ppy.sh/beatmaps/770306/covers/list.jpg?1622138562");/chAngE [hArd] por miwa
+background-image: url("https://assets.ppy.sh/beatmaps/751866/covers/list.jpg?1631510606");/Moriya set 08 ReEdit ~ Youkai no Yama [Jounzan's Hard] por Rin
+background-image: url("https://assets.ppy.sh/beatmaps/708535/covers/list.jpg?1622130111");/Wa-cycle- (TV Size) [Lucid] por Itoki Hana
+background-image: url("https://assets.ppy.sh/beatmaps/681577/covers/list.jpg?1622126516");/Here [TV-EDIT] [Insane] por JUNNA
+background-image: url("https://assets.ppy.sh/beatmaps/652412/covers/list.jpg?1622123165");/Harumachi Clover [Hard] por Hanasaka Yui(CV: M.A.O)
+background-image: url("https://assets.ppy.sh/beatmaps/614131/covers/list.jpg?1501161250");/my time (OMORI Ver.) [Hard] por bo en
+background-image: url("https://assets.ppy.sh/beatmaps/592713/covers/list.jpg?1504805011");/Identity (TV Size) [Normal] por Mikio Sakai
+background-image: url("https://assets.ppy.sh/beatmaps/482090/covers/list.jpg?1622106396");/Inferno [Agonizing Insane] por 9mm Parabellum Bullet
+background-image: url("https://assets.ppy.sh/beatmaps/144269/covers/list.jpg?1622070889");/Masshiro World (TV Size) [Insane] por Mikakuning!
+background-image: url("https://assets.ppy.sh/beatmaps/129299/covers/list.jpg?1622069189");/Hyouri Ittai (TV Size) [Fiya's Insane] por Yuzu
+background-image: url("https://assets.ppy.sh/beatmaps/1424129/covers/list.jpg?1622208870");/Omoide Shiritori (TV Size) [Kibb's Expert] por DIALOGUE+
+background-image: url("https://assets.ppy.sh/beatmaps/1200218/covers/list.jpg?1615345253");/Goodbye Moonmen- Rick and Morty Remix [Hard] por The Living Tombstone
+background-image: url("https://assets.ppy.sh/beatmaps/1348103/covers/list.jpg?1621049419");/BICHOTA [Bichota] por Karol G
+background-image: url("https://assets.ppy.sh/beatmaps/1270438/covers/list.jpg?1622198808");/Kaikai Kitan (TV Size) [Ren's Normal] por Eve
+background-image: url("https://assets.ppy.sh/beatmaps/1118592/covers/list.jpg?1622182931");/Drown [Insane] por Marina Rios
+background-image: url("https://assets.ppy.sh/beatmaps/1023775/covers/list.jpg?1622168594");/O2 (TV Size) [Insane] por ORANGE RANGE
+background-image: url("https://assets.ppy.sh/beatmaps/859783/covers/list.jpg?1622148601");/Harumachi Clover (Swing Arrangement) [Chanci's Expert] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/940726/covers/list.jpg?1622158320");/Uragirimono no Requiem (TV Size) [toybot's Insane] por Hasegawa Daisuke
+background-image: url("https://assets.ppy.sh/beatmaps/940726/covers/list.jpg?1622158320");/Uragirimono no Requiem (TV Size) [Peter's Hard] por Hasegawa Daisuke
+background-image: url("https://assets.ppy.sh/beatmaps/919813/covers/list.jpg?1622155398");/DISCOTHEQUE [Shizuku's Expert~] por Pastel*Palettes
+background-image: url("https://assets.ppy.sh/beatmaps/859608/covers/list.jpg?1622148566");/ADAMAS (TV Size) [Kyle73's Insane] por LiSA
+background-image: url("https://assets.ppy.sh/beatmaps/682290/covers/list.jpg?1631510142");/Miracle Sugite Yabai (feat. shully) [Insane] por Hige Driver
+background-image: url("https://assets.ppy.sh/beatmaps/623911/covers/list.jpg?1622120125");/again [KKip's Insane] por YUI
+background-image: url("https://assets.ppy.sh/beatmaps/542081/covers/list.jpg?1622112215");/Cookie-Butter-Choco-Cookie [NiNo's Insane] por Elmo and Cookie Monster
+background-image: url("https://assets.ppy.sh/beatmaps/481283/covers/list.jpg?1622106302");/Absolute Soul [Irreversible's Light Ex] por Suzuki Konomi
+background-image: url("https://assets.ppy.sh/beatmaps/334466/covers/list.jpg?1622089342");/L.L.L. [Hard] por MYTH & ROID
+background-image: url("https://assets.ppy.sh/beatmaps/239923/covers/list.jpg?0");/Welcome to the X dimension (TVS) [Insane] por Yakushimaru Etsuko
+background-image: url("https://assets.ppy.sh/beatmaps/104986/covers/list.jpg?1622066160");/Jiyuu no Tsubasa (TV Size) [Hard] por Linked Horizon
+background-image: url("https://assets.ppy.sh/beatmaps/69067/covers/list.jpg?1458236767");/Bomb A Head! V (TV SIZE) [Another] por m.c.A.T
+background-image: url("https://assets.ppy.sh/beatmaps/57181/covers/list.jpg?1622058308");/Reason why XXX [Hard] por Sasaki Sayaka
+background-image: url("https://assets.ppy.sh/beatmaps/48366/covers/list.jpg?1622055022");/Let Me Be With You (TV Size) [Insane] por ROUND TABLE feat. Nino
+background-image: url("https://assets.ppy.sh/beatmaps/29807/covers/list.jpg?1622046858");/Orange (TV Size) [Saten's Taiga-Insane] por Rie Kugimiya, Eri Kitamura & Yui Horie
+background-image: url("https://assets.ppy.sh/beatmaps/10532/covers/list.jpg?1622029263");/Yuukyou Seishunka (TV Size) [Hard] por ALI PROJECT
+background-image: url("https://assets.ppy.sh/beatmaps/1430235/covers/list.jpg?1626393059");/Yume o Kakeru! (TV Size) [Insane!] por Spica
+background-image: url("https://assets.ppy.sh/beatmaps/1435069/covers/list.jpg?1622529000");/Omoide Shiritori (TV Size) [Hard] por DIALOGUE+
+background-image: url("https://assets.ppy.sh/beatmaps/1384619/covers/list.jpg?1622207374");/Kira Kira Days (Cut Ver.) [NiNo's Insane] por HO-KAGO TEA TIME
+background-image: url("https://assets.ppy.sh/beatmaps/1372264/covers/list.jpg?1622206848");/Tabibito no Uta [Roxy] por Ohara Yuiko
+background-image: url("https://assets.ppy.sh/beatmaps/1362930/covers/list.jpg?1622206238");/DERO [KUJINN'S INSANE] por DUSTCELL
+background-image: url("https://assets.ppy.sh/beatmaps/1303762/covers/list.jpg?1629170221");/Sacred world (TV Size) [Noctiam's Insane] por RAISE A SUILEN
+background-image: url("https://assets.ppy.sh/beatmaps/1354754/covers/list.jpg?1617741097");/Rakuen (TV Size) [Hard] por Fujifabric
+background-image: url("https://assets.ppy.sh/beatmaps/1292652/covers/list.jpg?1631507148");/Believe (feat. Tsuyuri Karin) [Alone] por P4koo
+background-image: url("https://assets.ppy.sh/beatmaps/1291596/covers/list.jpg?1622200786");/LOST IN PARADISE feat. AKLO (TV Size) [INSANE] por ALI
+background-image: url("https://assets.ppy.sh/beatmaps/1123162/covers/list.jpg?1622183524");/Sore wa Chiisana Hikari no Youna (TV Size) [Hard] por Sayuri
+background-image: url("https://assets.ppy.sh/beatmaps/1101897/covers/list.jpg?1622180569");/Shout Baby (TV Size) [Plus Ultra] por Ryokuoushoku Shakai
+background-image: url("https://assets.ppy.sh/beatmaps/1099283/covers/list.jpg?1595361641");/Star Marker (TV Size) [Insane] por KANA-BOON
+background-image: url("https://assets.ppy.sh/beatmaps/1056752/covers/list.jpg?1582231889");/Share the light (TV Size) [Sylvarus' Insane] por Run Girls, Run!
+background-image: url("https://assets.ppy.sh/beatmaps/983942/covers/list.jpg?1622163566");/JUSTadICE (TV Size) [Agatsu's Insane] por Oomori Seiko
+background-image: url("https://assets.ppy.sh/beatmaps/920575/covers/list.jpg?1565565383");/Fanfare [P4nde's Insane] por sumika
+background-image: url("https://assets.ppy.sh/beatmaps/875289/covers/list.jpg?1622150311");/FLY HIGH!! (TV Size) [loliness' Shiny Feather] por BURNOUT SYNDROMES
+background-image: url("https://assets.ppy.sh/beatmaps/904087/covers/list.jpg?1622153603");/Orange Iro (TV Size) [Hard] por ChouCho
+background-image: url("https://assets.ppy.sh/beatmaps/814033/covers/list.jpg?1622143682");/One Room Sugar Life (TV Size) [Advanced] por Nanawo Akari
+background-image: url("https://assets.ppy.sh/beatmaps/865746/covers/list.jpg?1622149263");/Kimi no Sei (TV Size) [Kencho's Insane] por the peggies
+background-image: url("https://assets.ppy.sh/beatmaps/751773/covers/list.jpg?1631510636");/Feline, the White... [pishi's Normal] por Cranky
+background-image: url("https://assets.ppy.sh/beatmaps/741975/covers/list.jpg?1622134821");/Platform Syndrome [Kalibe's Hard] por SCANDAL
+background-image: url("https://assets.ppy.sh/beatmaps/625302/covers/list.jpg?1622120294");/Los! Los! Los! [Insane] por Tanya Degurechaff (CV: Yuki Aoi)
+background-image: url("https://assets.ppy.sh/beatmaps/511758/covers/list.jpg?1622109165");/Hikari no Hahen [Extra] por Takahashi Yu
+background-image: url("https://assets.ppy.sh/beatmaps/191241/covers/list.jpg?1622075894");/SEN NO TSUBASA [Kanto's Hard] por livetune adding Takuro Sugawara(from 9mm Parabellum Bullet)
+background-image: url("https://assets.ppy.sh/beatmaps/160201/covers/list.jpg?1622072592");/This game (TV Size) [Sekai's Hard Game] por Suzuki Konomi
+background-image: url("https://assets.ppy.sh/beatmaps/74301/covers/list.jpg?1622061671");/Nippon Egao Hyakkei (TV Size) [Insane] por MomoKuro-tei Ichimon
+background-image: url("https://assets.ppy.sh/beatmaps/24565/covers/list.jpg?1622043119");/Connect (TV Size) [Normal] por ClariS
+background-image: url("https://assets.ppy.sh/beatmaps/15778/covers/list.jpg?1622035456");/Alchemy [Hard] por Girls Dead Monster
+background-image: url("https://assets.ppy.sh/beatmaps/1362930/covers/list.jpg?1622206238");/DERO [ELI'S HARD] por DUSTCELL
+background-image: url("https://assets.ppy.sh/beatmaps/1363149/covers/list.jpg?1629256518");/Tabibito no Uta (TV Size) [Amateurre's Heartia] por Ohara Yuiko
+background-image: url("https://assets.ppy.sh/beatmaps/1345977/covers/list.jpg?1622205073");/Long shot (TV Size) [Hooni's Insane] por Maeshima Mayu
+background-image: url("https://assets.ppy.sh/beatmaps/1329156/covers/list.jpg?1622203738");/Kaibutsu (TV Size) [Kowari's Normal] por YOASOBI
+/Excuse My Rudeness, But Could You Please RIP?<3 (t+pazolite Remix) [vikala's Insane] por Mori Calliope
+background-image: url("https://assets.ppy.sh/beatmaps/1174505/covers/list.jpg?1622189308");/Angel With A Shotgun (Sped Up Ver.) [Reform's Expert] por The Cab
+background-image: url("https://assets.ppy.sh/beatmaps/1158834/covers/list.jpg?1622187740");/Nemureru Honnou (TV Size) [Insane] por YURiKA
+background-image: url("https://assets.ppy.sh/beatmaps/955866/covers/list.jpg?1631511722");/B.B.F (feat. Hatsune Miku & Kagamine Rin) [Normal] por KIRA & Heartbreaker
+background-image: url("https://assets.ppy.sh/beatmaps/929380/covers/list.jpg?1551745127");/Hirameki Heartbeat (TV Size) [Insane] por Miku Itou
+background-image: url("https://assets.ppy.sh/beatmaps/904087/covers/list.jpg?1622153603");/Orange Iro (TV Size) [Insane] por ChouCho
+background-image: url("https://assets.ppy.sh/beatmaps/859608/covers/list.jpg?1622148566");/ADAMAS (TV Size) [Kibbleru's Insane] por LiSA
+background-image: url("https://assets.ppy.sh/beatmaps/780651/covers/list.jpg?1622139777");/Harumachi Clover (TV Size) [Insane] por Hanasaka Yui (CV: M.A.O) feat. Koalazy
+background-image: url("https://assets.ppy.sh/beatmaps/689957/covers/list.jpg?1622127567");/My Hero [Zekk's Insane] por MAN WITH A MISSION
+background-image: url("https://assets.ppy.sh/beatmaps/477685/covers/list.jpg?1622105871");/Button [Karen's Normal] por PENGUIN RESEARCH
+background-image: url("https://assets.ppy.sh/beatmaps/448847/covers/list.jpg?1622102989");/LAY YOUR HANDS ON ME -TV MIX- [HARD] por BOOM BOOM SATELLITES
+background-image: url("https://assets.ppy.sh/beatmaps/162996/covers/list.jpg?1622072883");/killy killy JOKER TV size [momimann's Insane] por Wakeshima Kanon
+background-image: url("https://assets.ppy.sh/beatmaps/143159/covers/list.jpg?1622070699");/abnormalize (TV edit) [Konei & Irre's Hard] por Ling tosite sigure
+background-image: url("https://assets.ppy.sh/beatmaps/74301/covers/list.jpg?1622061671");/Nippon Egao Hyakkei (TV Size) [Hard] por MomoKuro-tei Ichimon
+background-image: url("https://assets.ppy.sh/beatmaps/56297/covers/list.jpg?1622058055");/Platinum 17 (TV Size) [Mickey's Hard] por yozuca*
+background-image: url("https://assets.ppy.sh/beatmaps/20013/covers/list.jpg?1622039306");/Torero [Insane] por Chayanne
+background-image: url("https://assets.ppy.sh/beatmaps/1533460/covers/list.jpg?1631776032");/Darling (TV Size) [Insane] por Kokoro (CV: Hayami Saori)
+background-image: url("https://assets.ppy.sh/beatmaps/1363149/covers/list.jpg?1629256518");/Tabibito no Uta (TV Size) [Winnie's Normal] por Ohara Yuiko
+background-image: url("https://assets.ppy.sh/beatmaps/1291596/covers/list.jpg?1622200786");/LOST IN PARADISE feat. AKLO (TV Size) [HARD] por ALI
+background-image: url("https://assets.ppy.sh/beatmaps/1161268/covers/list.jpg?1596632425");/Avant-Garde History [True History] por Roselia
+background-image: url("https://assets.ppy.sh/beatmaps/1169107/covers/list.jpg?1622188713");/31 Minutos (TV Size) [Insane] por Pablo Ilabaca, Felipe Ilabaca
+background-image: url("https://assets.ppy.sh/beatmaps/1130687/covers/list.jpg?1607151653");/Other Side (TV Size) [ID:LOST] por MIYAVI
+background-image: url("https://assets.ppy.sh/beatmaps/1050560/covers/list.jpg?1622171772");/Polaris (TV Size) [Insane] por BLUE ENCOUNT
+background-image: url("https://assets.ppy.sh/beatmaps/975380/covers/list.jpg?1558655820");/Emotional Prism [Normal] por BIGWAVE
+background-image: url("https://assets.ppy.sh/beatmaps/950994/covers/list.jpg?1622159477");/FAITH (TV Size) [Insane] por MADKID
+background-image: url("https://assets.ppy.sh/beatmaps/934878/covers/list.jpg?1622157448");/RAISE MY SWORD [Anzy's Insane] por GALNERYUS
+/Sex Is Good [Insane] por Kuba Oms
+background-image: url("https://assets.ppy.sh/beatmaps/859783/covers/list.jpg?1622148601");/Harumachi Clover (Swing Arrangement) [Jenny's Insane] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/829296/covers/list.jpg?1622145128");/Inochi ni Kirawarete Iru. [Insane] por mafumafu
+background-image: url("https://assets.ppy.sh/beatmaps/865746/covers/list.jpg?1622149263");/Kimi no Sei (TV Size) [Reform's Expert] por the peggies
+background-image: url("https://assets.ppy.sh/beatmaps/785731/covers/list.jpg?1631510958");/Catchit (Radio Edit) [Chaoz's Normal] por S3RL
+background-image: url("https://assets.ppy.sh/beatmaps/721011/covers/list.jpg?1622131881");/Flashback [Advanced] por MIYAVI vs KenKen
+background-image: url("https://assets.ppy.sh/beatmaps/679940/covers/list.jpg?1622126327");/Happy*Material [Kibb's Insane] por Takakura Yuka, Hirose Yuuki, Kayano Ai, Ogura Yui, Harada Sayaka, Kito Akari
+background-image: url("https://assets.ppy.sh/beatmaps/682290/covers/list.jpg?1631510142");/Miracle Sugite Yabai (feat. shully) [Hard] por Hige Driver
+background-image: url("https://assets.ppy.sh/beatmaps/657540/covers/list.jpg?1503728715");/hitorigoto but its an eight part swing feel arrangement [cream] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/596704/covers/list.jpg?1622117570");/Hitorigoto -TV MIX- [Kencho's Insane] por ClariS
+background-image: url("https://assets.ppy.sh/beatmaps/564538/covers/list.jpg?1563551536");/Jump Training Collection #4 [Level 1 - And Im Home] por Various Artists
+background-image: url("https://assets.ppy.sh/beatmaps/490153/covers/list.jpg?1622107196");/Beggin' [Betrayal] por Madcon
+background-image: url("https://assets.ppy.sh/beatmaps/481696/covers/list.jpg?1622106356");/DEAD OR LIE <TV Size> [Future] por Maon Kurosaki feat.TRUSTRICK
+background-image: url("https://assets.ppy.sh/beatmaps/401790/covers/list.jpg?1622098513");/Naked Dive (TV Ver.) [Insane] por SCREEN mode
+background-image: url("https://assets.ppy.sh/beatmaps/332952/covers/list.jpg?1622088826");/Bravely You (TV Size) [Kibboo's Hard] por Lia
+background-image: url("https://assets.ppy.sh/beatmaps/335534/covers/list.jpg?1622089627");/Pride Kakumei [iMage's Insane] por CHiCO with HoneyWorks
+background-image: url("https://assets.ppy.sh/beatmaps/147210/covers/list.jpg?1622071213");/FREEDOM DiVE [Solar] por xi
+background-image: url("https://assets.ppy.sh/beatmaps/267699/covers/list.jpg?1622081918");/Sirius (TV size ver.) [Hard] por Aoi Eir
+background-image: url("https://assets.ppy.sh/beatmaps/191241/covers/list.jpg?1622075894");/SEN NO TSUBASA [Insane] por livetune adding Takuro Sugawara(from 9mm Parabellum Bullet)
+background-image: url("https://assets.ppy.sh/beatmaps/145738/covers/list.jpg?1622071063");/Yo Te Atrapo, Tu Me Atrapas (TV Size) [Experto] por Claudia Bramnfsette
+background-image: url("https://assets.ppy.sh/beatmaps/116306/covers/list.jpg?1622067686");/departure! (TV Size) [Alarido's Normal] por Masatoshi Ono
+background-image: url("https://assets.ppy.sh/beatmaps/85040/covers/list.jpg?1622063156");/No brand girls (TV Size) [Insane] por u's
+background-image: url("https://assets.ppy.sh/beatmaps/48366/covers/list.jpg?1622055022");/Let Me Be With You (TV Size) [Mythol's Hard] por ROUND TABLE feat. Nino
+background-image: url("https://assets.ppy.sh/beatmaps/46605/covers/list.jpg?1622054406");/sweets parade (TV Size) [Insane] por Hanazawa Kana
+background-image: url("https://assets.ppy.sh/beatmaps/24135/covers/list.jpg?1622042738");/Silky Heart (TV Size) [vincerio's Minori-Insane] por Yui Horie
+background-image: url("https://assets.ppy.sh/beatmaps/10558/covers/list.jpg?1622029301");/Be Your Girl [hawkzor's Insane] por Chieko Kawabe
+background-image: url("https://assets.ppy.sh/beatmaps/10170/covers/list.jpg?1622028821");/Tsukiakari no Michishirube (TV size) [Crazy Jay's Insane] por Stereopony
+background-image: url("https://assets.ppy.sh/beatmaps/7145/covers/list.jpg?1622025047");/Urusei Yatsura - Lum no Love Song (TV Edit) [Hard] por Yuko Matsutani
+background-image: url("https://assets.ppy.sh/beatmaps/1398983/covers/list.jpg?1623847419");/M.I.L.F [Ohm's Insane] por Kawai Sprite
+background-image: url("https://assets.ppy.sh/beatmaps/849824/covers/list.jpg?1623045915");/The Clockwork Rose -Tokei Shikake no Bara Shoujo- [KKip's Insane] por Hatsuki Yura
+background-image: url("https://assets.ppy.sh/beatmaps/1200218/covers/list.jpg?1615345253");/Goodbye Moonmen- Rick and Morty Remix [PaRaDogi's Twisted Reality] por The Living Tombstone
+background-image: url("https://assets.ppy.sh/beatmaps/1200218/covers/list.jpg?1615345253");/Goodbye Moonmen- Rick and Morty Remix [Cosmos] por The Living Tombstone
+background-image: url("https://assets.ppy.sh/beatmaps/1270438/covers/list.jpg?1622198808");/Kaikai Kitan (TV Size) [FuJu's Insane] por Eve
+background-image: url("https://assets.ppy.sh/beatmaps/1246100/covers/list.jpg?1623331096");/Doro no Bunzai de Watashi dake no Taisetsu o Ubaouda nante [Depperinoo's Insane] por TUYU
+background-image: url("https://assets.ppy.sh/beatmaps/1178935/covers/list.jpg?1622189920");/Yubi Bouenkyou (TV Size) [Flask's Hard] por Nogizaka46
+background-image: url("https://assets.ppy.sh/beatmaps/1161268/covers/list.jpg?1596632425");/Avant-Garde History [Hard] por Roselia
+background-image: url("https://assets.ppy.sh/beatmaps/1148373/covers/list.jpg?1589370992");/Stories (TV Size) [Hard] por Snow Man
+background-image: url("https://assets.ppy.sh/beatmaps/1128013/covers/list.jpg?1622184259");/Identity (TV Size) [Stack's Insane] por Sakai Mikio
+background-image: url("https://assets.ppy.sh/beatmaps/954067/covers/list.jpg?1573994930");/Ultimate*MAGIC (TV Size) [Ayynna's Insane] por i*Ris
+background-image: url("https://assets.ppy.sh/beatmaps/913665/covers/list.jpg?1622154689");/Thank You!! (TV Size) [Mikan's Hyper] por HOME MADE KAZOKU
+background-image: url("https://assets.ppy.sh/beatmaps/910293/covers/list.jpg?1622154356");/Kawaki o Ameku (TV Size) [Collab Insane] por Minami
+background-image: url("https://assets.ppy.sh/beatmaps/858938/covers/list.jpg?1622148472");/RISE (ft. The Glitch Mob, Mako, and The Word Alive) [Mathollo's Hard] por League of Legends
+background-image: url("https://assets.ppy.sh/beatmaps/859608/covers/list.jpg?1622148566");/ADAMAS (TV Size) [Insane] por LiSA
+background-image: url("https://assets.ppy.sh/beatmaps/829296/covers/list.jpg?1622145128");/Inochi ni Kirawarete Iru. [Hard] por mafumafu
+background-image: url("https://assets.ppy.sh/beatmaps/750743/covers/list.jpg?1622136106");/Haruka Mirai (TV Size) [Internal's Insane] por Kankaku Piero
+background-image: url("https://assets.ppy.sh/beatmaps/781509/covers/list.jpg?1622139880");/Black Rover (TV Size) [Mir's Expert] por Vickeblanka
+background-image: url("https://assets.ppy.sh/beatmaps/746316/covers/list.jpg?1622135541");/Amor De Verao [Regou's Another] por Camellia feat. Nanahira
+background-image: url("https://assets.ppy.sh/beatmaps/720223/covers/list.jpg?1622131762");/Iwanai kedo ne. [Jouzu] por Yuiko Ohara
+background-image: url("https://assets.ppy.sh/beatmaps/638443/covers/list.jpg?1503343500");/Deal with the devil [Hayu's Hard] por Tia
+background-image: url("https://assets.ppy.sh/beatmaps/638443/covers/list.jpg?1503343500");/Deal with the devil [Insane] por Tia
+background-image: url("https://assets.ppy.sh/beatmaps/635275/covers/list.jpg?1622121307");/Kanashii Ureshii [Hard] por FREDERIC
+background-image: url("https://assets.ppy.sh/beatmaps/595827/covers/list.jpg?1622117462");/Stella Breeze (TV Size) [Hard] por Haruna Luna
+background-image: url("https://assets.ppy.sh/beatmaps/572804/covers/list.jpg?1622115252");/Original. -TV Ver- [Hard] por TrySail
+background-image: url("https://assets.ppy.sh/beatmaps/506771/covers/list.jpg?1622108666");/Kamiiro Awase [Mackenzie's Hard] por binaria
+background-image: url("https://assets.ppy.sh/beatmaps/482090/covers/list.jpg?1622106396");/Inferno [Traumatized Hard] por 9mm Parabellum Bullet
+background-image: url("https://assets.ppy.sh/beatmaps/378848/covers/list.jpg?0");/Symphony of the Night [Necessarius] por Dragonforce
+background-image: url("https://assets.ppy.sh/beatmaps/222253/covers/list.jpg?1622078502");/OVERLAPPERS [Mochi's Hard] por Qverktett:||
+background-image: url("https://assets.ppy.sh/beatmaps/63458/covers/list.jpg?1622059719");/SELF PRODUCER (TV Size) [Quilt's Normal] por Chihara Minori
+background-image: url("https://assets.ppy.sh/beatmaps/39249/covers/list.jpg?1622050808");/HARUKAZE (TV Size) [-Gamu-'s Hard] por SCANDAL
+background-image: url("https://assets.ppy.sh/beatmaps/26044/covers/list.jpg?1622044359");/Butter-Fly (TV Edit) [Hard] por Wada Kouji
+background-image: url("https://assets.ppy.sh/beatmaps/22618/covers/list.jpg?1622041541");/Komm, susser Tod [Come, Sweet Death] por Florence
+background-image: url("https://assets.ppy.sh/beatmaps/1513912/covers/list.jpg?1626617708");/Ai no Supreme! (TV Size) [My Angel Kanna] por fhana
+background-image: url("https://assets.ppy.sh/beatmaps/1424129/covers/list.jpg?1622208870");/Omoide Shiritori (TV Size) [Normal] por DIALOGUE+
+background-image: url("https://assets.ppy.sh/beatmaps/1328633/covers/list.jpg?1612249233");/Hysteric Night Girl [Hyper] por PSYQUI
+background-image: url("https://assets.ppy.sh/beatmaps/1158834/covers/list.jpg?1622187740");/Nemureru Honnou (TV Size) [Hard] por YURiKA
+background-image: url("https://assets.ppy.sh/beatmaps/1145949/covers/list.jpg?1622186312");/Shirushi (TV Size) [Sorrow] por LiSA
+background-image: url("https://assets.ppy.sh/beatmaps/1142710/covers/list.jpg?1599440419");/Panocha [VIH] por Faraon Love Shady
+background-image: url("https://assets.ppy.sh/beatmaps/1117986/covers/list.jpg?1617120031");/Black Rover (Swing Arrangement) [Zerkala's Extra] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/1118592/covers/list.jpg?1622182931");/Drown [Hard] por Marina Rios
+background-image: url("https://assets.ppy.sh/beatmaps/1099283/covers/list.jpg?1595361641");/Star Marker (TV Size) [Shine] por KANA-BOON
+background-image: url("https://assets.ppy.sh/beatmaps/1055990/covers/list.jpg?1622172717");/Wild Side (TV Size) [HowRengar's Light Insane] por ALI
+background-image: url("https://assets.ppy.sh/beatmaps/1047733/covers/list.jpg?1622171388");/Sangenshoku (TV Size) [Hard] por PELICAN FANCLUB
+background-image: url("https://assets.ppy.sh/beatmaps/1011011/covers/list.jpg?1564564241");/new beginnings [tutorial] por nekodex
+background-image: url("https://assets.ppy.sh/beatmaps/999645/covers/list.jpg?1622165494");/Inferno (TV Size) [Fire Force] por Mrs. GREEN APPLE
+background-image: url("https://assets.ppy.sh/beatmaps/981859/covers/list.jpg?1622163297");/Koise yo Minna, Hai! (TV Size) [Advanced] por Pyxis
+background-image: url("https://assets.ppy.sh/beatmaps/850902/covers/list.jpg?1622147620");/PAPERMOON (TV Size) [Mathew's Hard] por Tommy heavenly6
+background-image: url("https://assets.ppy.sh/beatmaps/936267/covers/list.jpg?1622157721");/Headphone Actor [Collab Hard] por JIN feat. LiSA
+background-image: url("https://assets.ppy.sh/beatmaps/955866/covers/list.jpg?1631511722");/B.B.F (feat. Hatsune Miku & Kagamine Rin) [Hard] por KIRA & Heartbreaker
+background-image: url("https://assets.ppy.sh/beatmaps/934878/covers/list.jpg?1622157448");/RAISE MY SWORD [AnimLoli's Expert] por GALNERYUS
+background-image: url("https://assets.ppy.sh/beatmaps/919813/covers/list.jpg?1622155398");/DISCOTHEQUE [Garden's Hard~] por Pastel*Palettes
+background-image: url("https://assets.ppy.sh/beatmaps/915385/covers/list.jpg?1622154965");/99.9 (TV Size) [Yudragen's Another] por MOB CHOIR feat. sajou no hana
+background-image: url("https://assets.ppy.sh/beatmaps/913665/covers/list.jpg?1622154689");/Thank You!! (TV Size) [Hard] por HOME MADE KAZOKU
+background-image: url("https://assets.ppy.sh/beatmaps/858938/covers/list.jpg?1622148472");/RISE (ft. The Glitch Mob, Mako, and The Word Alive) [Minorsonek's Insane] por League of Legends
+background-image: url("https://assets.ppy.sh/beatmaps/826106/covers/list.jpg?1622144800");/Fiction (TV Size) [Otaku Love] por sumika
+background-image: url("https://assets.ppy.sh/beatmaps/774450/covers/list.jpg?1622139027");/Sugar Song to Bitter Step [Kalazy's Insane] por UNISON SQUARE GARDEN
+background-image: url("https://assets.ppy.sh/beatmaps/746316/covers/list.jpg?1622135541");/Amor De Verao [ailv's Another] por Camellia feat. Nanahira
+background-image: url("https://assets.ppy.sh/beatmaps/678534/covers/list.jpg?1622126147");/Here [TV-EDIT] [Insane] por JUNNA
+background-image: url("https://assets.ppy.sh/beatmaps/678534/covers/list.jpg?1622126147");/Here [TV-EDIT] [Hard] por JUNNA
+background-image: url("https://assets.ppy.sh/beatmaps/623911/covers/list.jpg?1622120125");/again [Forest's Hyper] por YUI
+background-image: url("https://assets.ppy.sh/beatmaps/610987/covers/list.jpg?1622118911");/Sakurairo Diary [Hard] por Moso Calibration
+background-image: url("https://assets.ppy.sh/beatmaps/597111/covers/list.jpg?1622117645");/Yume Tourou [NeoSL's Insane] por RADWIMPS
+background-image: url("https://assets.ppy.sh/beatmaps/542081/covers/list.jpg?1622112215");/Cookie-Butter-Choco-Cookie [Foxy's Hard] por Elmo and Cookie Monster
+background-image: url("https://assets.ppy.sh/beatmaps/466758/covers/list.jpg?1622104794");/duvet TV sized [Mk's Hard] por boa
+background-image: url("https://assets.ppy.sh/beatmaps/459293/covers/list.jpg?1622104120");/THE DAY [Frey's Insane] por Porno Graffitti
+background-image: url("https://assets.ppy.sh/beatmaps/450015/covers/list.jpg?1622103104");/Brand-new World [Yoru's Insane] por Shiena Nishizawa
+background-image: url("https://assets.ppy.sh/beatmaps/450015/covers/list.jpg?1622103104");/Brand-new World [Hard] por Shiena Nishizawa
+background-image: url("https://assets.ppy.sh/beatmaps/448847/covers/list.jpg?1622102989");/LAY YOUR HANDS ON ME -TV MIX- [CONNECTION] por BOOM BOOM SATELLITES
+background-image: url("https://assets.ppy.sh/beatmaps/440706/covers/list.jpg?1622102277");/High Free Spirits -TV.Ver- [Hard] por TrySail
+background-image: url("https://assets.ppy.sh/beatmaps/368985/covers/list.jpg?1622095377");/Kuchizuke Diamond [bbHard] por WEAVER
+background-image: url("https://assets.ppy.sh/beatmaps/334466/covers/list.jpg?1622089342");/L.L.L. [Raose's Hard] por MYTH & ROID
+background-image: url("https://assets.ppy.sh/beatmaps/332952/covers/list.jpg?1622088826");/Bravely You (TV Size) [Mackenzie's Insane] por Lia
+background-image: url("https://assets.ppy.sh/beatmaps/222671/covers/list.jpg?1622078526");/Liar Mask anime size [Hard] por Mayama Rika
+background-image: url("https://assets.ppy.sh/beatmaps/191241/covers/list.jpg?1622075894");/SEN NO TSUBASA [Pokie's Insane] por livetune adding Takuro Sugawara(from 9mm Parabellum Bullet)
+background-image: url("https://assets.ppy.sh/beatmaps/172013/covers/list.jpg?1622073796");/Oracion(TV-Size) [Insane] por Kayano Ai
+background-image: url("https://assets.ppy.sh/beatmaps/95638/covers/list.jpg?1622064761");/Just Awake (TV Size) [-kevincela-'s Insane] por Fear, and Loathing in Las Vegas
+background-image: url("https://assets.ppy.sh/beatmaps/55436/covers/list.jpg?1622057782");/crossing field (TV Size) [ignore's Insane] por LiSA
+background-image: url("https://assets.ppy.sh/beatmaps/48467/covers/list.jpg?1622055075");/to the beginning (TV Size) [G's Hard] por Kalafina
+background-image: url("https://assets.ppy.sh/beatmaps/38459/covers/list.jpg?1622050540");/Kuusou Mesorogiwi (TV Size) [Deus Ex] por Yousei Teikoku
+background-image: url("https://assets.ppy.sh/beatmaps/24135/covers/list.jpg?1622042738");/Silky Heart (TV Size) [Taiga-Hard] por Yui Horie
+background-image: url("https://assets.ppy.sh/beatmaps/22648/covers/list.jpg?1622041560");/Ranbu no Melody (TV Size) [Hard] por SID
+background-image: url("https://assets.ppy.sh/beatmaps/20206/covers/list.jpg?1622039476");/Brand New World (TV Size) [Hard] por D-51
+background-image: url("https://assets.ppy.sh/beatmaps/19789/covers/list.jpg?1622039109");/MATRYOSHKA [Hard] por Hatsune Miku & Megpoid Gumi
+background-image: url("https://assets.ppy.sh/beatmaps/12268/covers/list.jpg?1622031379");/Perfect-area complete! (TV Size) [Insane] por Aso Natsuko
+background-image: url("https://assets.ppy.sh/beatmaps/12756/covers/list.jpg?1622031936");/Shunkan Sentimental (TV Size) [Insane] por SCANDAL
+background-image: url("https://assets.ppy.sh/beatmaps/10532/covers/list.jpg?1622029263");/Yuukyou Seishunka (TV Size) [Insane] por ALI PROJECT
+background-image: url("https://assets.ppy.sh/beatmaps/10824/covers/list.jpg?1622029608");/Hitori no Yoru (TV Size) [Alace Sensei] por Porno Graffitti
+background-image: url("https://assets.ppy.sh/beatmaps/628/covers/list.jpg?1622018642");/Super Mario Bros. (TECHNO remix) [Insane] por Nintendo
+background-image: url("https://assets.ppy.sh/beatmaps/1469530/covers/list.jpg?1623436977");/Hanagoyomi (Short Ver.) [Insane] por Ayumi.
+background-image: url("https://assets.ppy.sh/beatmaps/1382779/covers/list.jpg?1622207291");/Asuiro ClearSky [Yogurre's Insane] por hololive IDOL PROJECT
+background-image: url("https://assets.ppy.sh/beatmaps/1274360/covers/list.jpg?1622199140");/I believe what you said (TV Size) [Normal] por Asaka
+background-image: url("https://assets.ppy.sh/beatmaps/865571/covers/list.jpg?1619217012");/Houkago Di(e)stra(u)ction (TV Size) [Hyper] por Etsuko Yakushimaru
+background-image: url("https://assets.ppy.sh/beatmaps/1225198/covers/list.jpg?1622194397");/Gallop (TV Size) [Ducky-'s Hard] por pe'zmoku
+background-image: url("https://assets.ppy.sh/beatmaps/1177637/covers/list.jpg?1592715660");/Love me science [Normal] por Serizawa Yuu
+background-image: url("https://assets.ppy.sh/beatmaps/1117986/covers/list.jpg?1617120031");/Black Rover (Swing Arrangement) [min's futuristic extra] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/1102376/covers/list.jpg?1622180616");/mononoke in the fiction (TV Size) [Extra] por Lie and a Chameleon
+background-image: url("https://assets.ppy.sh/beatmaps/1055990/covers/list.jpg?1622172717");/Wild Side (TV Size) [Luna's Hard] por ALI
+background-image: url("https://assets.ppy.sh/beatmaps/1023775/covers/list.jpg?1622168594");/O2 (TV Size) [Hard] por ORANGE RANGE
+background-image: url("https://assets.ppy.sh/beatmaps/1092306/covers/list.jpg?1622179114");/PHOENIX (TV Size) [TO INSANE!] por BURNOUT SYNDROMES
+background-image: url("https://assets.ppy.sh/beatmaps/975380/covers/list.jpg?1558655820");/Emotional Prism [Insane] por BIGWAVE
+background-image: url("https://assets.ppy.sh/beatmaps/936267/covers/list.jpg?1622157721");/Headphone Actor [Sidetail's Insane] por JIN feat. LiSA
+background-image: url("https://assets.ppy.sh/beatmaps/955866/covers/list.jpg?1631511722");/B.B.F (feat. Hatsune Miku & Kagamine Rin) [Easy] por KIRA & Heartbreaker
+background-image: url("https://assets.ppy.sh/beatmaps/924891/covers/list.jpg?1622155982");/Sign (TV Size) [Amori's Insane] por Uchida Aya
+background-image: url("https://assets.ppy.sh/beatmaps/924891/covers/list.jpg?1622155982");/Sign (TV Size) [Pentaprism] por Uchida Aya
+background-image: url("https://assets.ppy.sh/beatmaps/919187/covers/list.jpg?1622155284");/UNION!! [We are all MILLION!!] por 765 MILLION ALLSTARS
+background-image: url("https://assets.ppy.sh/beatmaps/918188/covers/list.jpg?1622155155");/Kaen [Senhor's Insane] por Ziyoou-vachi
+background-image: url("https://assets.ppy.sh/beatmaps/913665/covers/list.jpg?1622154689");/Thank You!! (TV Size) [Advanced] por HOME MADE KAZOKU
+background-image: url("https://assets.ppy.sh/beatmaps/898005/covers/list.jpg?1622153038");/Fatima (TV Size) [Paradox] por Ito Kanako
+background-image: url("https://assets.ppy.sh/beatmaps/875289/covers/list.jpg?1622150311");/FLY HIGH!! (TV Size) [Alex's Expert] por BURNOUT SYNDROMES
+background-image: url("https://assets.ppy.sh/beatmaps/865746/covers/list.jpg?1622149263");/Kimi no Sei (TV Size) [NiNo's Insane] por the peggies
+background-image: url("https://assets.ppy.sh/beatmaps/859608/covers/list.jpg?1622148566");/ADAMAS (TV Size) [StarR's Expert] por LiSA
+background-image: url("https://assets.ppy.sh/beatmaps/859783/covers/list.jpg?1622148601");/Harumachi Clover (Swing Arrangement) [A r M i N's Extra] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/842412/covers/list.jpg?1622146604");/Harumachi Clover (Swing Arrangement) [Dictate Edit] [Shunao's Hard] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/727333/covers/list.jpg?1622132803");/Ding [Insane] por Seeed
+background-image: url("https://assets.ppy.sh/beatmaps/765169/covers/list.jpg?1622137990");/(can you) understand me? [heh?] por Komiya Mao
+background-image: url("https://assets.ppy.sh/beatmaps/695005/covers/list.jpg?1622128342");/Another Heaven -game Ver.- [Collab Hard] por earthmind
+background-image: url("https://assets.ppy.sh/beatmaps/697253/covers/list.jpg?1511368303");/Fake Town Baby [Super Extra] por Kekkai sensen & BEYOND(UNISON SQUARE GARDEN)
+background-image: url("https://assets.ppy.sh/beatmaps/689957/covers/list.jpg?1622127567");/My Hero [HIT ME ON THE GROUND] por MAN WITH A MISSION
+background-image: url("https://assets.ppy.sh/beatmaps/595899/covers/list.jpg?1622117491");/oddloop [hard] por Frederic
+background-image: url("https://assets.ppy.sh/beatmaps/466737/covers/list.jpg?1622104788");/Image [Yuii-'s Advanced] por SCANDAL
+background-image: url("https://assets.ppy.sh/beatmaps/525716/covers/list.jpg?1478628758");/Tsubasa Wo Kudasai [Normal] por Shiro Sagisu
+background-image: url("https://assets.ppy.sh/beatmaps/511758/covers/list.jpg?1622109165");/Hikari no Hahen [Hard] por Takahashi Yu
+background-image: url("https://assets.ppy.sh/beatmaps/444335/covers/list.jpg?1622102631");/Kira Kira Days [Shiawase!!] por HO-KAGO TEA TIME
+background-image: url("https://assets.ppy.sh/beatmaps/408612/covers/list.jpg?1622099222");/2015 in 10 minutes [Marathon] por Dzeko & Torres
+background-image: url("https://assets.ppy.sh/beatmaps/333543/covers/list.jpg?1622089070");/Higurashi no Naku Koro ni [Marin's Hard] por Eiko Shimamiya
+background-image: url("https://assets.ppy.sh/beatmaps/302799/covers/list.jpg?1622085107");/Hello,world! [Hard] por BUMP OF CHICKEN
+background-image: url("https://assets.ppy.sh/beatmaps/282345/covers/list.jpg?1622082761");/7 -seven- -TV SIZE - [Expert] por FLOWxGRANRODEO
+background-image: url("https://assets.ppy.sh/beatmaps/267699/covers/list.jpg?1622081918");/Sirius (TV size ver.) [handsome's Insane] por Aoi Eir
+background-image: url("https://assets.ppy.sh/beatmaps/262343/covers/list.jpg?1622081696");/Kimiiro Signal-TV size ver.- [Normal] por Haruna Luna
+background-image: url("https://assets.ppy.sh/beatmaps/131044/covers/list.jpg?1622069463");/Rain [Hard] por Hata Motohiro
+background-image: url("https://assets.ppy.sh/beatmaps/107604/covers/list.jpg?0");/Blurry Eyes (TV Size) [Hard] por L'Arc~en~Ciel
+background-image: url("https://assets.ppy.sh/beatmaps/104149/covers/list.jpg?1622066024");/ViViD (TV Size) [Insane] por May'n
+background-image: url("https://assets.ppy.sh/beatmaps/94078/covers/list.jpg?1622064552");/Unite (TV Size) [Insane] por Misawa Sachika
+background-image: url("https://assets.ppy.sh/beatmaps/80659/covers/list.jpg?1622062516");/Kamisama Hajimemashita (TV Size) [Normal] por Hanae
+background-image: url("https://assets.ppy.sh/beatmaps/80659/covers/list.jpg?1622062516");/Kamisama Hajimemashita (TV Size) [Hard] por Hanae
+background-image: url("https://assets.ppy.sh/beatmaps/69067/covers/list.jpg?1458236767");/Bomb A Head! V (TV SIZE) [Insane] por m.c.A.T
+background-image: url("https://assets.ppy.sh/beatmaps/55699/covers/list.jpg?1622057879");/Kokoro no Kara (TV Size) [710sane] por Team.Nekokan[Neko] feat. Amaoto Junca
+background-image: url("https://assets.ppy.sh/beatmaps/44591/covers/list.jpg?1622053618");/Electric Love (Short Ver.) [Karen & KPY's Hard] por Hatsune Miku
+background-image: url("https://assets.ppy.sh/beatmaps/38459/covers/list.jpg?1622050540");/Kuusou Mesorogiwi (TV Size) [Saten] por Yousei Teikoku
+background-image: url("https://assets.ppy.sh/beatmaps/39249/covers/list.jpg?1622050808");/HARUKAZE (TV Size) [LC] por SCANDAL
+background-image: url("https://assets.ppy.sh/beatmaps/23080/covers/list.jpg?1622041888");/Mi Corazon Encantado [Hard] por Alejandro Arnais
+background-image: url("https://assets.ppy.sh/beatmaps/22618/covers/list.jpg?1622041541");/Komm, susser Tod [Come, Nice Death] por Florence
+background-image: url("https://assets.ppy.sh/beatmaps/16838/covers/list.jpg?1622036640");/Raison d'etre (TV Size) [Insane] por Nightmare
+background-image: url("https://assets.ppy.sh/beatmaps/16838/covers/list.jpg?1622036640");/Raison d'etre (TV Size) [Clare] por Nightmare
+background-image: url("https://assets.ppy.sh/beatmaps/8836/covers/list.jpg?1631329113");/Beautiful World [taka's Hard] por Utada Hikaru
+background-image: url("https://assets.ppy.sh/beatmaps/6257/covers/list.jpg?1622024042");/Don't Say "Lazy" [Pretty] por Yoko Hikasa
+background-image: url("https://assets.ppy.sh/beatmaps/6257/covers/list.jpg?1622024042");/Don't Say "Lazy" [Crazy] por Yoko Hikasa
+background-image: url("https://assets.ppy.sh/beatmaps/3768/covers/list.jpg?1622021251");/Shooting Star [Teacher] por KOTOKO
+background-image: url("https://assets.ppy.sh/beatmaps/1455295/covers/list.jpg?1622604949");/Duvet (TV Size) [suou's hard] por boa
+background-image: url("https://assets.ppy.sh/beatmaps/1452361/covers/list.jpg?1625198462");/Colorful Canvas (TV Size) [Hard] por Nagatoro-san and Friends
+background-image: url("https://assets.ppy.sh/beatmaps/1399793/covers/list.jpg?1622208049");/Saga Jihen [newteurre's Extra] por Hoshimachi Suisei with Hololive Fantasy
+background-image: url("https://assets.ppy.sh/beatmaps/1382779/covers/list.jpg?1622207291");/Asuiro ClearSky [Mirateurre's Hard] por hololive IDOL PROJECT
+background-image: url("https://assets.ppy.sh/beatmaps/1384619/covers/list.jpg?1622207374");/Kira Kira Days (Cut Ver.) [Kowari's Hard] por HO-KAGO TEA TIME
+background-image: url("https://assets.ppy.sh/beatmaps/1200218/covers/list.jpg?1615345253");/Goodbye Moonmen- Rick and Morty Remix [Nagaraia's Jupiter] por The Living Tombstone
+background-image: url("https://assets.ppy.sh/beatmaps/1200218/covers/list.jpg?1615345253");/Goodbye Moonmen- Rick and Morty Remix [Insane] por The Living Tombstone
+background-image: url("https://assets.ppy.sh/beatmaps/1200218/covers/list.jpg?1615345253");/Goodbye Moonmen- Rick and Morty Remix [Galactic] por The Living Tombstone
+background-image: url("https://assets.ppy.sh/beatmaps/1345755/covers/list.jpg?1630332618");/Ganbare! Kumoko-san no Thema (TV Size) [Insane] por Watashi (CV: Yuuki Aoi)
+background-image: url("https://assets.ppy.sh/beatmaps/1345977/covers/list.jpg?1622205073");/Long shot (TV Size) [Flask's Hard] por Maeshima Mayu
+background-image: url("https://assets.ppy.sh/beatmaps/1292652/covers/list.jpg?1631507148");/Believe (feat. Tsuyuri Karin) [Hard] por P4koo
+/Excuse My Rudeness, But Could You Please RIP?<3 (t+pazolite Remix) [Flake's Extra] por Mori Calliope
+background-image: url("https://assets.ppy.sh/beatmaps/1210297/covers/list.jpg?1622193122");/DORAEMON [Best Friend] por Amatsuki
+background-image: url("https://assets.ppy.sh/beatmaps/1169107/covers/list.jpg?1622188713");/31 Minutos (TV Size) [Hard] por Pablo Ilabaca, Felipe Ilabaca
+background-image: url("https://assets.ppy.sh/beatmaps/1128013/covers/list.jpg?1622184259");/Identity (TV Size) [Kowari's Hard] por Sakai Mikio
+background-image: url("https://assets.ppy.sh/beatmaps/1130133/covers/list.jpg?1622184610");/Ready to (TV Size) [Cub's Anthropomorphism] por Kagemori Michiru (CV: Morohoshi Sumire)
+background-image: url("https://assets.ppy.sh/beatmaps/1092306/covers/list.jpg?1622179114");/PHOENIX (TV Size) [TO HARD!] por BURNOUT SYNDROMES
+background-image: url("https://assets.ppy.sh/beatmaps/1053509/covers/list.jpg?1622172287");/HIKARI (TV Size) [Extreme] por ViViD
+background-image: url("https://assets.ppy.sh/beatmaps/1004116/covers/list.jpg?1622166032");/veil (TV Size) [hypercyte's Insane] por Suda Keina
+background-image: url("https://assets.ppy.sh/beatmaps/1002317/covers/list.jpg?1622165884");/MUKANJYO (TV Size) [Extra] por Survive Said The Prophet
+background-image: url("https://assets.ppy.sh/beatmaps/919813/covers/list.jpg?1622155398");/DISCOTHEQUE [Karen's Special~] por Pastel*Palettes
+background-image: url("https://assets.ppy.sh/beatmaps/919813/covers/list.jpg?1622155398");/DISCOTHEQUE [Medium~] por Pastel*Palettes
+background-image: url("https://assets.ppy.sh/beatmaps/918188/covers/list.jpg?1622155155");/Kaen [Suou's Hard] por Ziyoou-vachi
+background-image: url("https://assets.ppy.sh/beatmaps/910293/covers/list.jpg?1622154356");/Kawaki o Ameku (TV Size) [Airin's Hard] por Minami
+background-image: url("https://assets.ppy.sh/beatmaps/770240/covers/list.jpg?1622138542");/The Girl in Byakkoya [Gust's Insane] por Susumu Hirasawa
+background-image: url("https://assets.ppy.sh/beatmaps/895173/covers/list.jpg?1622152700");/The Girls Are Alright! (TV Size) [Normal] por saya
+background-image: url("https://assets.ppy.sh/beatmaps/894883/covers/list.jpg?1622152641");/Kani*Do-Luck! (TV Size) [A I U R A !] por Aiurabu
+background-image: url("https://assets.ppy.sh/beatmaps/876133/covers/list.jpg?1622150419");/Haruka Kanata (TV Size) [Entry's Hard] por UNLIMITS
+background-image: url("https://assets.ppy.sh/beatmaps/695005/covers/list.jpg?1622128342");/Another Heaven -game Ver.- [Normal] por earthmind
+background-image: url("https://assets.ppy.sh/beatmaps/859783/covers/list.jpg?1622148601");/Harumachi Clover (Swing Arrangement) [Dafiely's Insane] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/814033/covers/list.jpg?1622143682");/One Room Sugar Life (TV Size) [Sing's Another] por Nanawo Akari
+background-image: url("https://assets.ppy.sh/beatmaps/851838/covers/list.jpg?1622147691");/One day (TV Size) [Atsuro's Insane] por The ROOTLESS
+background-image: url("https://assets.ppy.sh/beatmaps/833053/covers/list.jpg?1622145538");/Update (TV Size) [Insane] por miwa
+background-image: url("https://assets.ppy.sh/beatmaps/729808/covers/list.jpg?1631511943");/Leprechaun [Kuron's Hard] por Thaehan
+background-image: url("https://assets.ppy.sh/beatmaps/789544/covers/list.jpg?1631510781");/Invasion [Normal] por Andromedik
+background-image: url("https://assets.ppy.sh/beatmaps/774450/covers/list.jpg?1622139027");/Sugar Song to Bitter Step [Bittersweet] por UNISON SQUARE GARDEN
+background-image: url("https://assets.ppy.sh/beatmaps/770300/covers/list.jpg?1631510657");/Monochrome Butterfly [A r M i N's Expert] por Aitsuki Nakuru
+background-image: url("https://assets.ppy.sh/beatmaps/770306/covers/list.jpg?1622138562");/chAngE [light InsAnE] por miwa
+background-image: url("https://assets.ppy.sh/beatmaps/751866/covers/list.jpg?1631510606");/Moriya set 08 ReEdit ~ Youkai no Yama [Normal] por Rin
+background-image: url("https://assets.ppy.sh/beatmaps/734241/covers/list.jpg?1622133734");/Tsuki ni Murakumo Hana ni Kaze [Satellite's Lunatic] por Yuuhei Satellite
+background-image: url("https://assets.ppy.sh/beatmaps/721011/covers/list.jpg?1622131881");/Flashback [Spork Lover's Hard] por MIYAVI vs KenKen
+background-image: url("https://assets.ppy.sh/beatmaps/689957/covers/list.jpg?1622127567");/My Hero [Hazu's Hard] por MAN WITH A MISSION
+background-image: url("https://assets.ppy.sh/beatmaps/686414/covers/list.jpg?1622127143");/HEROES (TV Size) [Hard] por Brian The Sun
+background-image: url("https://assets.ppy.sh/beatmaps/672960/covers/list.jpg?1622125500");/Zankoku na Tenshi no These <TV.Size Version> [Ambient's Insane] por Yoko Takahashi
+background-image: url("https://assets.ppy.sh/beatmaps/623911/covers/list.jpg?1622120125");/again [Sulfur's Advanced] por YUI
+background-image: url("https://assets.ppy.sh/beatmaps/606419/covers/list.jpg?1622118476");/My Sweet Maiden (TV-size) [Lucifer] por Mia REGINA
+background-image: url("https://assets.ppy.sh/beatmaps/592713/covers/list.jpg?1504805011");/Identity (TV Size) [Easy] por Mikio Sakai
+background-image: url("https://assets.ppy.sh/beatmaps/586841/covers/list.jpg?1622116460");/RHAPSODY OF BLUE SKY [Insane] por fhana
+background-image: url("https://assets.ppy.sh/beatmaps/586841/covers/list.jpg?1622116460");/RHAPSODY OF BLUE SKY [Hard] por fhana
+background-image: url("https://assets.ppy.sh/beatmaps/564538/covers/list.jpg?1563551536");/Jump Training Collection #4 [Level 3 - All Alone] por Various Artists
+background-image: url("https://assets.ppy.sh/beatmaps/542081/covers/list.jpg?1622112215");/Cookie-Butter-Choco-Cookie [Akitoshi's Hard] por Elmo and Cookie Monster
+background-image: url("https://assets.ppy.sh/beatmaps/466737/covers/list.jpg?1622104788");/Image [pkhg's Hard] por SCANDAL
+background-image: url("https://assets.ppy.sh/beatmaps/474376/covers/list.jpg?1622105443");/Sore wa Chiisana Hikari no Youna [Kencho's Hard] por Sayuri
+background-image: url("https://assets.ppy.sh/beatmaps/481283/covers/list.jpg?1622106302");/Absolute Soul [Nitrous' Normal] por Suzuki Konomi
+background-image: url("https://assets.ppy.sh/beatmaps/459293/covers/list.jpg?1622104120");/THE DAY [Hard] por Porno Graffitti
+background-image: url("https://assets.ppy.sh/beatmaps/401790/covers/list.jpg?1622098513");/Naked Dive (TV Ver.) [Hard] por SCREEN mode
+background-image: url("https://assets.ppy.sh/beatmaps/405053/covers/list.jpg?1622098942");/Junshin Always [Aerous' Extra] por Azusa Tadokoro
+background-image: url("https://assets.ppy.sh/beatmaps/405053/covers/list.jpg?1622098942");/Junshin Always [Advanced] por Azusa Tadokoro
+background-image: url("https://assets.ppy.sh/beatmaps/333543/covers/list.jpg?1622089070");/Higurashi no Naku Koro ni [Vell's Insane] por Eiko Shimamiya
+background-image: url("https://assets.ppy.sh/beatmaps/324587/covers/list.jpg?1622087667");/Youka to Yumeutsutsu [Awakening] por Shimotsuki Haruka
+background-image: url("https://assets.ppy.sh/beatmaps/310408/covers/list.jpg?1622086027");/Everyday World [Hard] por Yukinoshita Yukino (CV.Hayami Saori) & Yuigahama Yui (CV.Touyama Nao)
+background-image: url("https://assets.ppy.sh/beatmaps/302799/covers/list.jpg?1622085107");/Hello,world! [Extra] por BUMP OF CHICKEN
+background-image: url("https://assets.ppy.sh/beatmaps/267699/covers/list.jpg?1622081918");/Sirius (TV size ver.) [Normal] por Aoi Eir
+background-image: url("https://assets.ppy.sh/beatmaps/269103/covers/list.jpg?1622081982");/Ai no Scenario [Hard] por CHiCO with HoneyWorks
+background-image: url("https://assets.ppy.sh/beatmaps/222671/covers/list.jpg?1622078526");/Liar Mask anime size [Liar] por Mayama Rika
+background-image: url("https://assets.ppy.sh/beatmaps/147210/covers/list.jpg?1622071213");/FREEDOM DiVE [Galaxy] por xi
+background-image: url("https://assets.ppy.sh/beatmaps/144269/covers/list.jpg?1622070889");/Masshiro World (TV Size) [Hard] por Mikakuning!
+background-image: url("https://assets.ppy.sh/beatmaps/122658/covers/list.jpg?1622068533");/Maware! Setsugekka (TV Size) [Zweib] por Harada Hitomi, Kayano Ai & Ogura Yui
+background-image: url("https://assets.ppy.sh/beatmaps/121048/covers/list.jpg?1622068331");/Golden Time [Hard] por Horie Yui
+background-image: url("https://assets.ppy.sh/beatmaps/115873/covers/list.jpg?1622067641");/BLOODY STREAM (TV Size) [Xgor's Hard] por Coda
+background-image: url("https://assets.ppy.sh/beatmaps/89049/covers/list.jpg?1622063782");/Get Lucky [Daft] por Daft Punk ft. Pharrell Williams
+background-image: url("https://assets.ppy.sh/beatmaps/26044/covers/list.jpg?1622044359");/Butter-Fly (TV Edit) [Old Style] por Wada Kouji
+background-image: url("https://assets.ppy.sh/beatmaps/43839/covers/list.jpg?1622053229");/Kyoumu Densen (TV Size) [Nyquill's Hard] por ALI PROJECT
+background-image: url("https://assets.ppy.sh/beatmaps/24565/covers/list.jpg?1622043119");/Connect (TV Size) [Easy] por ClariS
+background-image: url("https://assets.ppy.sh/beatmaps/25122/covers/list.jpg?1622043544");/Magia (TV Size) [Magica] por Kalafina
+background-image: url("https://assets.ppy.sh/beatmaps/20206/covers/list.jpg?1622039476");/Brand New World (TV Size) [Insane] por D-51
+background-image: url("https://assets.ppy.sh/beatmaps/15341/covers/list.jpg?1622034992");/Crow Song (TV Size) [Insane] por Girls Dead Monster
+background-image: url("https://assets.ppy.sh/beatmaps/13349/covers/list.jpg?1622032614");/masterpiece (TV Size) [Insane] por Kawada Mami
+background-image: url("https://assets.ppy.sh/beatmaps/3631/covers/list.jpg?1622021100");/Lilium [Hard] por Elfen Lied
+background-image: url("https://assets.ppy.sh/beatmaps/1098516/covers/list.jpg?1623206686");/Alive [Shady's Insane] por Ayano Mashiro
+background-image: url("https://assets.ppy.sh/beatmaps/1469530/covers/list.jpg?1623436977");/Hanagoyomi (Short Ver.) [Blossom] por Ayumi.
+background-image: url("https://assets.ppy.sh/beatmaps/1455295/covers/list.jpg?1622604949");/Duvet (TV Size) [breathless] por boa
+background-image: url("https://assets.ppy.sh/beatmaps/1435069/covers/list.jpg?1622529000");/Omoide Shiritori (TV Size) [Expert] por DIALOGUE+
+background-image: url("https://assets.ppy.sh/beatmaps/1430482/covers/list.jpg?1634842844");/Cry Baby (TV Size) [Frontier's Insane] por Official HIGE DANdism
+background-image: url("https://assets.ppy.sh/beatmaps/1430482/covers/list.jpg?1634842844");/Cry Baby (TV Size) [Hard] por Official HIGE DANdism
+background-image: url("https://assets.ppy.sh/beatmaps/1372562/covers/list.jpg?1623791370");/EASY LOVE (TV Size) [TORRIRU'S EXPERT] por Uesaka Sumire
+background-image: url("https://assets.ppy.sh/beatmaps/1342479/covers/list.jpg?1622204814");/Storyteller (TV Size) [Stack's Extra] por TRUE
+background-image: url("https://assets.ppy.sh/beatmaps/1424129/covers/list.jpg?1622208870");/Omoide Shiritori (TV Size) [Expert] por DIALOGUE+
+background-image: url("https://assets.ppy.sh/beatmaps/1380176/covers/list.jpg?1622207213");/Grandeur (TV Size) [Advanced] por Snow Man
+background-image: url("https://assets.ppy.sh/beatmaps/1370775/covers/list.jpg?1622206733");/Tsumibito [Guan's Expert] por LiSA
+background-image: url("https://assets.ppy.sh/beatmaps/1339074/covers/list.jpg?1631516792");/Over the limit [Normal] por Imy
+background-image: url("https://assets.ppy.sh/beatmaps/1200218/covers/list.jpg?1615345253");/Goodbye Moonmen- Rick and Morty Remix [muya-'s Solar System] por The Living Tombstone
+background-image: url("https://assets.ppy.sh/beatmaps/1333508/covers/list.jpg?1622204035");/Loser Girl [Amasai's Insane] por TUYU
+background-image: url("https://assets.ppy.sh/beatmaps/1348103/covers/list.jpg?1621049419");/BICHOTA [Hard] por Karol G
+background-image: url("https://assets.ppy.sh/beatmaps/1329156/covers/list.jpg?1622203738");/Kaibutsu (TV Size) [Keqing's Insane] por YOASOBI
+background-image: url("https://assets.ppy.sh/beatmaps/1263383/covers/list.jpg?1622198095");/Zutto Summer de Koishiteru [Akitoshi's Extreme] por Niji no Conquistador
+background-image: url("https://assets.ppy.sh/beatmaps/1263383/covers/list.jpg?1622198095");/Zutto Summer de Koishiteru [SMOKELIND's Insane] por Niji no Conquistador
+background-image: url("https://assets.ppy.sh/beatmaps/1117986/covers/list.jpg?1617120031");/Black Rover (Swing Arrangement) [Black Meteorite] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/1225204/covers/list.jpg?1622194407");/glory days [Blessing] por Haruna Luna
+background-image: url("https://assets.ppy.sh/beatmaps/1218852/covers/list.jpg?1622193813");/Yoru ni Kakeru [Collab Insane] por YOASOBI
+background-image: url("https://assets.ppy.sh/beatmaps/1193921/covers/list.jpg?1622191557");/Kokuhaku Bungee Jumping (TV Size) [Normal] por halca
+background-image: url("https://assets.ppy.sh/beatmaps/1178935/covers/list.jpg?1622189920");/Yubi Bouenkyou (TV Size) [Delis' Extra] por Nogizaka46
+background-image: url("https://assets.ppy.sh/beatmaps/1188740/covers/list.jpg?1622190990");/Ange du Blanc Pur [Insane] por ke-ji feat. Nanahira
+background-image: url("https://assets.ppy.sh/beatmaps/1155375/covers/list.jpg?1622187361");/Orange [Melody] por 7!!
+background-image: url("https://assets.ppy.sh/beatmaps/1148373/covers/list.jpg?1589370992");/Stories (TV Size) [Lebros' Insane] por Snow Man
+background-image: url("https://assets.ppy.sh/beatmaps/1148373/covers/list.jpg?1589370992");/Stories (TV Size) [Black Meteorite] por Snow Man
+background-image: url("https://assets.ppy.sh/beatmaps/1090605/covers/list.jpg?1616556686");/CHAIN (TV Size) [Saggin's Topaz Ring] por ASCA
+background-image: url("https://assets.ppy.sh/beatmaps/1090605/covers/list.jpg?1616556686");/CHAIN (TV Size) [hs] por ASCA
+background-image: url("https://assets.ppy.sh/beatmaps/1117986/covers/list.jpg?1617120031");/Black Rover (Swing Arrangement) [Pepekcz's Extra] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/1117986/covers/list.jpg?1617120031");/Black Rover (Swing Arrangement) [Icytors and Flake's Insane] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/1099283/covers/list.jpg?1595361641");/Star Marker (TV Size) [SILENCE PLAYER's Insane] por KANA-BOON
+background-image: url("https://assets.ppy.sh/beatmaps/1070148/covers/list.jpg?1622174578");/PaPaPa (TV Size) [Expert] por Saito Shuka
+background-image: url("https://assets.ppy.sh/beatmaps/1056752/covers/list.jpg?1582231889");/Share the light (TV Size) [Dementation's Hyper] por Run Girls, Run!
+background-image: url("https://assets.ppy.sh/beatmaps/1048325/covers/list.jpg?1622171445");/Dark Crow (TV Size) [Insane] por MAN WITH A MISSION
+background-image: url("https://assets.ppy.sh/beatmaps/989467/covers/list.jpg?1622164380");/Orange [Hard] por Hanatan
+background-image: url("https://assets.ppy.sh/beatmaps/1004378/covers/list.jpg?1622166073");/Fanfare [Unconditional Love] por sumika
+background-image: url("https://assets.ppy.sh/beatmaps/1002317/covers/list.jpg?1622165884");/MUKANJYO (TV Size) [Hard] por Survive Said The Prophet
+background-image: url("https://assets.ppy.sh/beatmaps/983942/covers/list.jpg?1622163566");/JUSTadICE (TV Size) [Glaceon's Extra] por Oomori Seiko
+background-image: url("https://assets.ppy.sh/beatmaps/975380/covers/list.jpg?1558655820");/Emotional Prism [Easy] por BIGWAVE
+background-image: url("https://assets.ppy.sh/beatmaps/971561/covers/list.jpg?1631511827");/Runengon [[4K] Easy] por antiPLUR
+background-image: url("https://assets.ppy.sh/beatmaps/859783/covers/list.jpg?1622148601");/Harumachi Clover (Swing Arrangement) [FrenZ's Hard] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/954067/covers/list.jpg?1573994930");/Ultimate*MAGIC (TV Size) [eINess' Ultimate Spell] por i*Ris
+background-image: url("https://assets.ppy.sh/beatmaps/940726/covers/list.jpg?1622158320");/Uragirimono no Requiem (TV Size) [Normal] por Hasegawa Daisuke
+background-image: url("https://assets.ppy.sh/beatmaps/891334/covers/list.jpg?1635157703");/Wild Card [Normal] por HyuN
+background-image: url("https://assets.ppy.sh/beatmaps/876227/covers/list.jpg?1631511065");/Mechanic Heartbeat [lfj's Insane] por Culprate, Keota & Sophie Meiers
+background-image: url("https://assets.ppy.sh/beatmaps/876227/covers/list.jpg?1631511065");/Mechanic Heartbeat [Chaoz's Easy] por Culprate, Keota & Sophie Meiers
+background-image: url("https://assets.ppy.sh/beatmaps/729808/covers/list.jpg?1631511943");/Leprechaun [Easy] por Thaehan
+background-image: url("https://assets.ppy.sh/beatmaps/863319/covers/list.jpg?1622148995");/Iris (TV Size) [Insane] por Aoi Eir
+background-image: url("https://assets.ppy.sh/beatmaps/859608/covers/list.jpg?1622148566");/ADAMAS (TV Size) [Kibbleru's Blue Rose] por LiSA
+background-image: url("https://assets.ppy.sh/beatmaps/842236/covers/list.jpg?1622146568");/Rolling star (TV Size) [AF's Insane] por YUI
+background-image: url("https://assets.ppy.sh/beatmaps/837805/covers/list.jpg?1558256737");/GLISTENING flat [Megumi best girl] por Kato Megumi (CV.Yasuno Kiyono)
+background-image: url("https://assets.ppy.sh/beatmaps/774450/covers/list.jpg?1622139027");/Sugar Song to Bitter Step [toybot's Insane] por UNISON SQUARE GARDEN
+background-image: url("https://assets.ppy.sh/beatmaps/708535/covers/list.jpg?1622130111");/Wa-cycle- (TV Size) [Crys' Insane] por Itoki Hana
+background-image: url("https://assets.ppy.sh/beatmaps/785731/covers/list.jpg?1631510958");/Catchit (Radio Edit) [Easy] por S3RL
+background-image: url("https://assets.ppy.sh/beatmaps/785731/covers/list.jpg?1631510958");/Catchit (Radio Edit) [Chaoz's Hard] por S3RL
+background-image: url("https://assets.ppy.sh/beatmaps/780651/covers/list.jpg?1622139777");/Harumachi Clover (TV Size) [Laura's Normal] por Hanasaka Yui (CV: M.A.O) feat. Koalazy
+background-image: url("https://assets.ppy.sh/beatmaps/770300/covers/list.jpg?1631510657");/Monochrome Butterfly [Uniform] por Aitsuki Nakuru
+background-image: url("https://assets.ppy.sh/beatmaps/751866/covers/list.jpg?1631510606");/Moriya set 08 ReEdit ~ Youkai no Yama [Satellite's Easy] por Rin
+background-image: url("https://assets.ppy.sh/beatmaps/744593/covers/list.jpg?1631510522");/Happppy song [happy birthday to me.] por SOOOO
+background-image: url("https://assets.ppy.sh/beatmaps/720223/covers/list.jpg?1622131762");/Iwanai kedo ne. [Normal] por Yuiko Ohara
+background-image: url("https://assets.ppy.sh/beatmaps/721011/covers/list.jpg?1622131881");/Flashback [yaspo's Normal] por MIYAVI vs KenKen
+background-image: url("https://assets.ppy.sh/beatmaps/720223/covers/list.jpg?1622131762");/Iwanai kedo ne. [Advanced] por Yuiko Ohara
+background-image: url("https://assets.ppy.sh/beatmaps/697961/covers/list.jpg?1622128682");/Bon Appetit S (TV Size ver) [Firis' Sadistic Another] por Blend A
+background-image: url("https://assets.ppy.sh/beatmaps/689957/covers/list.jpg?1622127567");/My Hero [Normal] por MAN WITH A MISSION
+background-image: url("https://assets.ppy.sh/beatmaps/689957/covers/list.jpg?1622127567");/My Hero [Another] por MAN WITH A MISSION
+background-image: url("https://assets.ppy.sh/beatmaps/679940/covers/list.jpg?1622126327");/Happy*Material [Hard] por Takakura Yuka, Hirose Yuuki, Kayano Ai, Ogura Yui, Harada Sayaka, Kito Akari
+background-image: url("https://assets.ppy.sh/beatmaps/570494/covers/list.jpg?1622115039");/Great Days [Light Insane] por Karen Aoki & Daisuke Hasegawa
+background-image: url("https://assets.ppy.sh/beatmaps/570494/covers/list.jpg?1622115039");/Great Days [Hard] por Karen Aoki & Daisuke Hasegawa
+background-image: url("https://assets.ppy.sh/beatmaps/623911/covers/list.jpg?1622120125");/again [Gero's Insane] por YUI
+background-image: url("https://assets.ppy.sh/beatmaps/634231/covers/list.jpg?1622121204");/Seishun Prologue [Hard] por Moso Calibration
+background-image: url("https://assets.ppy.sh/beatmaps/625302/covers/list.jpg?1622120294");/Los! Los! Los! [apple's Insane] por Tanya Degurechaff (CV: Yuki Aoi)
+background-image: url("https://assets.ppy.sh/beatmaps/586841/covers/list.jpg?1622116460");/RHAPSODY OF BLUE SKY [My Angel Kanna] por fhana
+background-image: url("https://assets.ppy.sh/beatmaps/542081/covers/list.jpg?1622112215");/Cookie-Butter-Choco-Cookie [Extra] por Elmo and Cookie Monster
+background-image: url("https://assets.ppy.sh/beatmaps/531938/covers/list.jpg?1622111142");/Hikari Are (Anime Version) [Irohas' Normal] por BURNOUT SYNDROMES
+background-image: url("https://assets.ppy.sh/beatmaps/490956/covers/list.jpg?1622107285");/Tsukinami [Hard] por Kanon Wakeshima
+background-image: url("https://assets.ppy.sh/beatmaps/490153/covers/list.jpg?1622107196");/Beggin' [Hard] por Madcon
+background-image: url("https://assets.ppy.sh/beatmaps/481696/covers/list.jpg?1622106356");/DEAD OR LIE <TV Size> [Normal] por Maon Kurosaki feat.TRUSTRICK
+background-image: url("https://assets.ppy.sh/beatmaps/481283/covers/list.jpg?1622106302");/Absolute Soul [Akitoshi's Hard] por Suzuki Konomi
+background-image: url("https://assets.ppy.sh/beatmaps/480306/covers/list.jpg?1468238552");/Wait And Bleed [Chris Fehn's Hard] por Slipknot
+background-image: url("https://assets.ppy.sh/beatmaps/478304/covers/list.jpg?1622105978");/miele paradiso [Normal] por Iori Nomizu
+background-image: url("https://assets.ppy.sh/beatmaps/476425/covers/list.jpg?1467413061");/Kyo no hi wa sayonara [Normal] por Shiro Sagisu
+background-image: url("https://assets.ppy.sh/beatmaps/451198/covers/list.jpg?1622103251");/Crazy Noisy Bizarre Town (TV Size) [Atsuro's Insane ~Heaven's Door~] por THE DU
+background-image: url("https://assets.ppy.sh/beatmaps/465326/covers/list.jpg?1466527081");/Hohoemi no Bakudan [jyc's Insane] por Mawatari Matsuko
+background-image: url("https://assets.ppy.sh/beatmaps/444335/covers/list.jpg?1622102631");/Kira Kira Days [Normal!!] por HO-KAGO TEA TIME
+background-image: url("https://assets.ppy.sh/beatmaps/440706/covers/list.jpg?1622102277");/High Free Spirits -TV.Ver- [Fycho's Expert] por TrySail
+background-image: url("https://assets.ppy.sh/beatmaps/340494/covers/list.jpg?1622090653");/Inner Urge TV size mix [Insane] por Sumire Uesaka
+background-image: url("https://assets.ppy.sh/beatmaps/338291/covers/list.jpg?0");/Days (TV Size) [Insane] por FLOW
+background-image: url("https://assets.ppy.sh/beatmaps/332952/covers/list.jpg?1622088826");/Bravely You (TV Size) [Yuki's Hard] por Lia
+background-image: url("https://assets.ppy.sh/beatmaps/335534/covers/list.jpg?1622089627");/Pride Kakumei [Normal] por CHiCO with HoneyWorks
+background-image: url("https://assets.ppy.sh/beatmaps/269103/covers/list.jpg?1622081982");/Ai no Scenario [Light Insane] por CHiCO with HoneyWorks
+background-image: url("https://assets.ppy.sh/beatmaps/267699/covers/list.jpg?1622081918");/Sirius (TV size ver.) [handsome's Light Insane] por Aoi Eir
+background-image: url("https://assets.ppy.sh/beatmaps/268431/covers/list.jpg?1622081943");/Nanairo Symphony -TV Size- [Insane] por Coalamode.
+background-image: url("https://assets.ppy.sh/beatmaps/239923/covers/list.jpg?0");/Welcome to the X dimension (TVS) [Normal] por Yakushimaru Etsuko
+background-image: url("https://assets.ppy.sh/beatmaps/232290/covers/list.jpg?1622079442");/Seven Doors [wkyik's Insane] por ZAQ
+background-image: url("https://assets.ppy.sh/beatmaps/224164/covers/list.jpg?1631509249");/PUPA [Kenterz's Another] por Morimori Atsushi
+background-image: url("https://assets.ppy.sh/beatmaps/172013/covers/list.jpg?1622073796");/Oracion(TV-Size) [litoluna's Insane] por Kayano Ai
+background-image: url("https://assets.ppy.sh/beatmaps/160201/covers/list.jpg?1622072592");/This game (TV Size) [K.Penguin's Normal Game] por Suzuki Konomi
+background-image: url("https://assets.ppy.sh/beatmaps/165743/covers/list.jpg?1622073188");/daze [K.Penguin's Normal] por Jin ft. MARiA from GARNiDELiA
+background-image: url("https://assets.ppy.sh/beatmaps/129299/covers/list.jpg?1622069189");/Hyouri Ittai (TV Size) [Normal] por Yuzu
+background-image: url("https://assets.ppy.sh/beatmaps/121662/covers/list.jpg?1622068386");/S.M.L (TV Size) [Skystar] por Afilia Saga
+background-image: url("https://assets.ppy.sh/beatmaps/123593/covers/list.jpg?1622068626");/Liquid (Paul Rosenthal Remix) [Hard] por Rostik
+background-image: url("https://assets.ppy.sh/beatmaps/112651/covers/list.jpg?1458263510");/Square Jump Practice Maps [BPM149 Distorted Reality Holy Crap!!That's Square jump!! AR8] por Various Artists
+background-image: url("https://assets.ppy.sh/beatmaps/95638/covers/list.jpg?1622064761");/Just Awake (TV Size) [Saten] por Fear, and Loathing in Las Vegas
+background-image: url("https://assets.ppy.sh/beatmaps/69016/covers/list.jpg?1458236743");/Spiral (TV Size) [Insane] por Dustz
+background-image: url("https://assets.ppy.sh/beatmaps/63222/covers/list.jpg?1622059676");/Yasashisa no Riyuu [Normal] por ChouCho
+background-image: url("https://assets.ppy.sh/beatmaps/63351/covers/list.jpg?1622059704");/Rakuen PROJECT (TV Size) [Insane] por Ray
+background-image: url("https://assets.ppy.sh/beatmaps/56297/covers/list.jpg?1622058055");/Platinum 17 (TV Size) [Andrea's Normal] por yozuca*
+background-image: url("https://assets.ppy.sh/beatmaps/55436/covers/list.jpg?1622057782");/crossing field (TV Size) [Insane] por LiSA
+background-image: url("https://assets.ppy.sh/beatmaps/48467/covers/list.jpg?1622055075");/to the beginning (TV Size) [Insane] por Kalafina
+background-image: url("https://assets.ppy.sh/beatmaps/46605/covers/list.jpg?1622054406");/sweets parade (TV Size) [Normal] por Hanazawa Kana
+background-image: url("https://assets.ppy.sh/beatmaps/45720/covers/list.jpg?1622054132");/Platinum Disco (TV Size) [Insane] por Iguchi Yuka
+background-image: url("https://assets.ppy.sh/beatmaps/44898/covers/list.jpg?1622053760");/Immoral Memory~The Lost Memory~ [Hard] por Kamui Gakupo, KAITO, Kagamine Len
+background-image: url("https://assets.ppy.sh/beatmaps/26044/covers/list.jpg?1622044359");/Butter-Fly (TV Edit) [ztrot's Insane] por Wada Kouji
+background-image: url("https://assets.ppy.sh/beatmaps/15440/covers/list.jpg?1622035088");/We Are! (TV Size) [Insane] por Hiroshi Kitadani
+background-image: url("https://assets.ppy.sh/beatmaps/23084/covers/list.jpg?1622041896");/Mariposa [Hard-mon] por Cesar Franco
+background-image: url("https://assets.ppy.sh/beatmaps/19789/covers/list.jpg?1622039109");/MATRYOSHKA [Insane] por Hatsune Miku & Megpoid Gumi
+background-image: url("https://assets.ppy.sh/beatmaps/17439/covers/list.jpg?1622037276");/My Soul, Your Beats! (Gldemo ver) [Insane] por Girls Dead Monster
+background-image: url("https://assets.ppy.sh/beatmaps/9819/covers/list.jpg?1622028368");/PSI-Missing (TV Size) [Missing] por Kawada Mami
+background-image: url("https://assets.ppy.sh/beatmaps/15341/covers/list.jpg?1622034992");/Crow Song (TV Size) [Hard] por Girls Dead Monster
+background-image: url("https://assets.ppy.sh/beatmaps/14409/covers/list.jpg?1622033960");/Near no Theme [Hard] por Taniuchi Hideki
+background-image: url("https://assets.ppy.sh/beatmaps/12756/covers/list.jpg?1622031936");/Shunkan Sentimental (TV Size) [Crimmi's Normal] por SCANDAL
+background-image: url("https://assets.ppy.sh/beatmaps/9605/covers/list.jpg?0");/Koyoi, Tsuki ga Miezu Tomo [Insane] por Porno Graffiti
+background-image: url("https://assets.ppy.sh/beatmaps/8244/covers/list.jpg?1622026393");/Kimi Ga Suki Dato Sakebitai(Short Ver.) [DaRRi MIx] por BAAD
+background-image: url("https://assets.ppy.sh/beatmaps/184/covers/list.jpg?1622018243");/Make Up! Make Up! [Hard] por Chatmonchy
+background-image: url("https://assets.ppy.sh/beatmaps/1509873/covers/list.jpg?1626012466");/Analogy (TV Size) [The swirling chaos, that which lies beyond the truth.] por Ayane
+background-image: url("https://assets.ppy.sh/beatmaps/849824/covers/list.jpg?1623045915");/The Clockwork Rose -Tokei Shikake no Bara Shoujo- [Deppy's Hard] por Hatsuki Yura
+background-image: url("https://assets.ppy.sh/beatmaps/1469530/covers/list.jpg?1623436977");/Hanagoyomi (Short Ver.) [Hard] por Ayumi.
+background-image: url("https://assets.ppy.sh/beatmaps/849824/covers/list.jpg?1623045915");/The Clockwork Rose -Tokei Shikake no Bara Shoujo- [Celine's Extra] por Hatsuki Yura
+background-image: url("https://assets.ppy.sh/beatmaps/1457209/covers/list.jpg?1622168184");/KING [coco's Expert] por Hoshimachi Suisei
+background-image: url("https://assets.ppy.sh/beatmaps/1457209/covers/list.jpg?1622168184");/KING [Mocaotic's Insane] por Hoshimachi Suisei
+background-image: url("https://assets.ppy.sh/beatmaps/1003489/covers/list.jpg?1623077979");/Love with You (TV Size) [To Love, or not to Love] por fripSide
+background-image: url("https://assets.ppy.sh/beatmaps/1350397/covers/list.jpg?1622205467");/VIVID VICE (TV Size) [Sajinn's Infinity] por Who-ya Extended
+background-image: url("https://assets.ppy.sh/beatmaps/1430482/covers/list.jpg?1634842844");/Cry Baby (TV Size) [Time Travel Heroic] por Official HIGE DANdism
+background-image: url("https://assets.ppy.sh/beatmaps/1398983/covers/list.jpg?1623847419");/M.I.L.F [Frontier's Hard] por Kawai Sprite
+background-image: url("https://assets.ppy.sh/beatmaps/1429256/covers/list.jpg?1620563426");/Ra-ra-rasputin [Insane] por Boney M.
+background-image: url("https://assets.ppy.sh/beatmaps/1398983/covers/list.jpg?1623847419");/M.I.L.F [Eula's Normal] por Kawai Sprite
+background-image: url("https://assets.ppy.sh/beatmaps/1405001/covers/list.jpg?1622208224");/i wanna slam my head against the wall [mimari & sylas' hard] por glaive
+background-image: url("https://assets.ppy.sh/beatmaps/1399793/covers/list.jpg?1622208049");/Saga Jihen [LeCandy's Insane] por Hoshimachi Suisei with Hololive Fantasy
+background-image: url("https://assets.ppy.sh/beatmaps/1405001/covers/list.jpg?1622208224");/i wanna slam my head against the wall [mimari & sylas' paralyzed] por glaive
+background-image: url("https://assets.ppy.sh/beatmaps/1353578/covers/list.jpg?1622205698");/Only (TV Size) [Gust's Insane] por Ohara Yuiko
+background-image: url("https://assets.ppy.sh/beatmaps/1292652/covers/list.jpg?1631507148");/Believe (feat. Tsuyuri Karin) [Shira's Another] por P4koo
+background-image: url("https://assets.ppy.sh/beatmaps/1381677/covers/list.jpg?1622050131");/Irokousui (TV Size) [Insane] por Kamiyama Yoh
+background-image: url("https://assets.ppy.sh/beatmaps/1292652/covers/list.jpg?1631507148");/Believe (feat. Tsuyuri Karin) [Namki's Insane] por P4koo
+background-image: url("https://assets.ppy.sh/beatmaps/1370775/covers/list.jpg?1622206733");/Tsumibito [Star's Insane] por LiSA
+background-image: url("https://assets.ppy.sh/beatmaps/1380176/covers/list.jpg?1622207213");/Grandeur (TV Size) [Grimoire] por Snow Man
+background-image: url("https://assets.ppy.sh/beatmaps/1370775/covers/list.jpg?1622206733");/Tsumibito [Desire] por LiSA
+background-image: url("https://assets.ppy.sh/beatmaps/1368923/covers/list.jpg?1622206603");/Iro Kousui (TV Size) [Hard] por Kamiyama Yoh
+background-image: url("https://assets.ppy.sh/beatmaps/1364626/covers/list.jpg?1633531220");/Aleph-0 [Daycore's Another] por LeaF
+background-image: url("https://assets.ppy.sh/beatmaps/1356098/covers/list.jpg?1622205847");/Zankoku na Yume to Nemure (TV Size) [Extra] por Kuribayashi Minami
+background-image: url("https://assets.ppy.sh/beatmaps/1356098/covers/list.jpg?1622205847");/Zankoku na Yume to Nemure (TV Size) [Normal] por Kuribayashi Minami
+background-image: url("https://assets.ppy.sh/beatmaps/1345755/covers/list.jpg?1630332618");/Ganbare! Kumoko-san no Thema (TV Size) [Easy] por Watashi (CV: Yuuki Aoi)
+background-image: url("https://assets.ppy.sh/beatmaps/1339074/covers/list.jpg?1631516792");/Over the limit [Insane] por Imy
+background-image: url("https://assets.ppy.sh/beatmaps/1337087/covers/list.jpg?1622204347");/Lento [Avanzado] por Julieta Venegas
+background-image: url("https://assets.ppy.sh/beatmaps/1330497/covers/list.jpg?1611437416");/Going to Ride (Nozoki Ana Ending) [achtunglel's Normal] por predia
+background-image: url("https://assets.ppy.sh/beatmaps/1256111/covers/list.jpg?1622197491");/Bad Apple!! feat. nomico (Camellia's "Bad Psy!!" Remix) [Insane] por Masayoshi Minoshima
+/stay with me [Hantrik's Hard] por 1nonly
+background-image: url("https://assets.ppy.sh/beatmaps/1291596/covers/list.jpg?1622200786");/LOST IN PARADISE feat. AKLO (TV Size) [NORMAL] por ALI
+background-image: url("https://assets.ppy.sh/beatmaps/1284037/covers/list.jpg?1605915055");/Loco [Broken Swear] por Pinkie Guy
+background-image: url("https://assets.ppy.sh/beatmaps/1280924/covers/list.jpg?1605720669");/Hokuto No Ken [Normal] por
+background-image: url("https://assets.ppy.sh/beatmaps/1225198/covers/list.jpg?1622194397");/Gallop (TV Size) [Akitoshi's Normal] por pe'zmoku
+background-image: url("https://assets.ppy.sh/beatmaps/865571/covers/list.jpg?1619217012");/Houkago Di(e)stra(u)ction (TV Size) [Hard] por Etsuko Yakushimaru
+background-image: url("https://assets.ppy.sh/beatmaps/1256111/covers/list.jpg?1622197491");/Bad Apple!! feat. nomico (Camellia's "Bad Psy!!" Remix) [Desolation] por Masayoshi Minoshima
+background-image: url("https://assets.ppy.sh/beatmaps/1241266/covers/list.jpg?1622195896");/Spectacular Spider-Man Theme (TV Size) [Extra] por The Tender Box
+background-image: url("https://assets.ppy.sh/beatmaps/1214699/covers/list.jpg?1622193527");/Himitsu (movie ver.) [StarCastler's Normal] por sumika
+background-image: url("https://assets.ppy.sh/beatmaps/1218852/covers/list.jpg?1622193813");/Yoru ni Kakeru [Hard] por YOASOBI
+background-image: url("https://assets.ppy.sh/beatmaps/1192891/covers/list.jpg?1622191451");/Tougenkyou Alien (TV Size) [Insane] por serial TV drama
+background-image: url("https://assets.ppy.sh/beatmaps/1174505/covers/list.jpg?1622189308");/Angel With A Shotgun (Sped Up Ver.) [NiNo's Insane] por The Cab
+background-image: url("https://assets.ppy.sh/beatmaps/1174505/covers/list.jpg?1622189308");/Angel With A Shotgun (Sped Up Ver.) [Akitoshi's Expert] por The Cab
+background-image: url("https://assets.ppy.sh/beatmaps/1173307/covers/list.jpg?1606743065");/Go Go Heaven (TV Size) [Insane] por Oosawa Yoshiyuki
+background-image: url("https://assets.ppy.sh/beatmaps/1173307/covers/list.jpg?1606743065");/Go Go Heaven (TV Size) [Asphyre's Insane] por Oosawa Yoshiyuki
+background-image: url("https://assets.ppy.sh/beatmaps/1173307/covers/list.jpg?1606743065");/Go Go Heaven (TV Size) [Hard] por Oosawa Yoshiyuki
+background-image: url("https://assets.ppy.sh/beatmaps/1158834/covers/list.jpg?1622187740");/Nemureru Honnou (TV Size) [Normal] por YURiKA
+background-image: url("https://assets.ppy.sh/beatmaps/1090605/covers/list.jpg?1616556686");/CHAIN (TV Size) [FinallyV's Sapphite Ring] por ASCA
+background-image: url("https://assets.ppy.sh/beatmaps/999051/covers/list.jpg?1585684001");/Tell Me Why (TV Size) [Nothing Will Be Wrong] por Penpals
+background-image: url("https://assets.ppy.sh/beatmaps/1117986/covers/list.jpg?1617120031");/Black Rover (Swing Arrangement) [SomethingValid's Insane] por Will Stetson
+background-image: url("https://assets.ppy.sh/beatmaps/1130687/covers/list.jpg?1607151653");/Other Side (TV Size) [ID:HARD] por MIYAVI
+background-image: url("https://assets.ppy.sh/beatmaps/1130133/covers/list.jpg?1622184610");/Ready to (TV Size) [OneShotFox's Furry Insane] por Kagemori Michiru (CV: Morohoshi Sumire)
+background-image: url("https://assets.ppy.sh/beatmaps/1128013/covers/list.jpg?1622184259");/Identity (TV Size) [Yudragen's Extra] por Sakai Mikio
+background-image: url("https://assets.ppy.sh/beatmaps/1123162/covers/list.jpg?1622183524");/Sore wa Chiisana Hikari no Youna (TV Size) [Normal] por Sayuri
+background-image: url("https://assets.ppy.sh/beatmaps/1117219/covers/list.jpg?1622182810");/Hero's Come Back!! (TV Size) [Hard] por nobodyknows+
+background-image: url("https://assets.ppy.sh/beatmaps/1117219/covers/list.jpg?1622182810");/Hero's Come Back!! (TV Size) [Silent's Insane] por nobodyknows+
+background-image: url("https://assets.ppy.sh/beatmaps/948360/covers/list.jpg?1622159122");/Kono Yubi Tomare (TV Size) [Normal] por JUNNA
+background-image: url("https://assets.ppy.sh/beatmaps/1112662/covers/list.jpg?1631514516");/Uta [Poetry] por Imperial Circus Dead Decadence
+background-image: url("https://assets.ppy.sh/beatmaps/1099283/covers/list.jpg?1595361641");/Star Marker (TV Size) [Normal] por KANA-BOON
+background-image: url("https://assets.ppy.sh/beatmaps/1098516/covers/list.jpg?1623206686");/Alive [Resilience] por Ayano Mashiro
+background-image: url("https://assets.ppy.sh/beatmaps/1095606/covers/list.jpg?1622179678");/Easy Breezy (TV Size) [Hands off tomadoi!] por chelmico
+background-image: url("https://assets.ppy.sh/beatmaps/1095606/covers/list.jpg?1622179678");/Easy Breezy (TV Size) [Insane] por chelmico
+background-image: url("https://assets.ppy.sh/beatmaps/1089673/covers/list.jpg?1622178692");/Black Catcher (TV Size) [Hazu's Hard] por Vickeblanka
+background-image: url("https://assets.ppy.sh/beatmaps/1092306/covers/list.jpg?1622179114");/PHOENIX (TV Size) [TO EASY!] por BURNOUT SYNDROMES
+background-image: url("https://assets.ppy.sh/beatmaps/1092306/covers/list.jpg?1622179114");/PHOENIX (TV Size) [TO NORMAL!] por BURNOUT SYNDROMES
+background-image: url("https://assets.ppy.sh/beatmaps/1092306/covers/list.jpg?1622179114");/PHOENIX (TV Size) [TO THE TOP!!] por BURNOUT SYNDROMES
+background-image: url("https://assets.ppy.sh/beatmaps/1089673/covers/list.jpg?1622178692");/Black Catcher (TV Size) [Five-Leaf Clover] por Vickeblanka
+background-image: url("https://assets.ppy.sh/beatmaps/1086990/covers/list.jpg?1622178131");/Shunshun Shuugetsu [Hard] por Dark PHOENiX
+background-image: url("https://assets.ppy.sh/beatmaps/406897/covers/list.jpg?1622099118");/Strike The Blood (TV Size) [Insane] por KISIDA KYODAN & THE AKEBOSI ROCKETS
+background-image: url("https://assets.ppy.sh/beatmaps/1047733/covers/list.jpg?1622171388");/Sangenshoku (TV Size) [Normal] por PELICAN FANCLUB
+background-image: url("https://assets.ppy.sh/beatmaps/1056752/covers/list.jpg?1582231889");/Share the light (TV Size) [Lumi's Insane] por Run Girls, Run!
+background-image: url("https://assets.ppy.sh/beatmaps/1053509/covers/list.jpg?1622172287");/HIKARI (TV Size) [browiec's Hyper] por ViViD
+background-image: url("https://assets.ppy.sh/beatmaps/1050560/covers/list.jpg?1622171772");/Polaris (TV Size) [Xandit's Expert] por BLUE ENCOUNT
+background-image: url("https://assets.ppy.sh/beatmaps/1050560/covers/list.jpg?1622171772");/Polaris (TV Size) [Airin's Light Insane] por BLUE ENCOUNT
+background-image: url("https://assets.ppy.sh/beatmaps/1047733/covers/list.jpg?1622171388");/Sangenshoku (TV Size) [Cola] por PELICAN FANCLUB
+background-image: url("https://assets.ppy.sh/beatmaps/1032103/covers/list.jpg?1631512553");/H8 U [CUP] por LukHash
+background-image: url("https://assets.ppy.sh/beatmaps/1027950/covers/list.jpg?1622169056");/Kto Vse Eti Lyudi? [keeVY's Hard?] por PORNOFIL'MY
+background-image: url("https://assets.ppy.sh/beatmaps/989467/covers/list.jpg?1622164380");/Orange [AIR's Insane] por Hanatan
+background-image: url("https://assets.ppy.sh/beatmaps/1011341/covers/list.jpg?1622166940");/TEEN TITANS THEME (TV Size) [Ex's Hard] por Puffy AmiYumi
+background-image: url("https://assets.ppy.sh/beatmaps/1004116/covers/list.jpg?1622166032");/veil (TV Size) [Fixruto's Hard] por Suda Keina
+background-image: url("https://assets.ppy.sh/beatmaps/1004468/covers/list.jpg?1622166111");/Guinea Pig Bridge [Guinea Pig Technology] por Parry Gripp
+background-image: url("https://assets.ppy.sh/beatmaps/1004378/covers/list.jpg?1622166073");/Fanfare [Normal] por sumika
+background-image: url("https://assets.ppy.sh/beatmaps/999051/covers/list.jpg?1585684001");/Tell Me Why (TV Size) [Hard] por Penpals
+background-image: url("https://assets.ppy.sh/beatmaps/998427/covers/list.jpg?1622165284");/Good Morning World! (TV Size) [Normal] por BURNOUT SYNDROMES
+background-image: url("https://assets.ppy.sh/beatmaps/999051/covers/list.jpg?1585684001");/Tell Me Why (TV Size) [Hitsounds] por Penpals
+background-image: url("https://assets.ppy.sh/beatmaps/988485/covers/list.jpg?1622164196");/QUESTION (TV Size) [Blitzifyyy's Insane?] por 3 Nen E Gumi Utatan (Nagisa & Kayano & Karuma & Isogai & Maehara)
+background-image: url("https://assets.ppy.sh/beatmaps/989467/covers/list.jpg?1622164380");/Orange [Another] por Hanatan
+background-image: url("https://assets.ppy.sh/beatmaps/969563/covers/list.jpg?1622161782");/Iro wa Nioedo Chirinuru o [Lunatic] por senya
+background-image: url("https://assets.ppy.sh/beatmaps/966211/covers/list.jpg?1636653687");/R*O*C*K*S (TV Size) [Kage Bunshin] por HOUND DOG
+background-image: url("https://assets.ppy.sh/beatmaps/965730/covers/list.jpg?1631512125");/Lawn Wake IV (Black) [Black Overdose] por The Flashbulb
+background-image: url("https://assets.ppy.sh/beatmaps/955808/covers/list.jpg?1631511932");/Tokoyami no keiyaku KEGARETA-SHOUJO feat. GUMI (Short Ver.) [Cup] por Trial & Error
+background-image: url("https://assets.ppy.sh/beatmaps/954067/covers/list.jpg?1573994930");/Ultimate*MAGIC (TV Size) [Asuka_-'s Normal] por i*Ris
+background-image: url("https://assets.ppy.sh/beatmaps/950994/covers/list.jpg?1622159477");/FAITH (TV Size) [Hard] por MADKID
+background-image: url("https://assets.ppy.sh/beatmaps/940597/covers/list.jpg?1631511537");/Take Your Swimsuit [Insane] por tieff
+background-image: url("https://assets.ppy.sh/beatmaps/934666/covers/list.jpg?1631511788");/Wave Island [Hard] por Ben Briggs
+background-image: url("https://assets.ppy.sh/beatmaps/929380/covers/list.jpg?1551745127");/Hirameki Heartbeat (TV Size) [Hard] por Miku Itou
+background-image: url("https://assets.ppy.sh/beatmaps/925328/covers/list.jpg?1622156037");/Touch off (TV Size) [Insane] por UVERworld
+background-image: url("https://assets.ppy.sh/beatmaps/919813/covers/list.jpg?1622155398");/DISCOTHEQUE [Normal~] por Pastel*Palettes
+background-image: url("https://assets.ppy.sh/beatmaps/918188/covers/list.jpg?1622155155");/Kaen [Expert] por Ziyoou-vachi
+background-image: url("https://assets.ppy.sh/beatmaps/770240/covers/list.jpg?1622138542");/The Girl in Byakkoya [Firika's Hard] por Susumu Hirasawa
+background-image: url("https://assets.ppy.sh/beatmaps/915385/covers/list.jpg?1622154965");/99.9 (TV Size) [Insane] por MOB CHOIR feat. sajou no hana
+background-image: url("https://assets.ppy.sh/beatmaps/910293/covers/list.jpg?1622154356");/Kawaki o Ameku (TV Size) [Extra] por Minami
+background-image: url("https://assets.ppy.sh/beatmaps/908811/covers/list.jpg?1622922334");/Mare Maris [Challenge] por M2U
+background-image: url("https://assets.ppy.sh/beatmaps/876133/covers/list.jpg?1622150419");/Haruka Kanata (TV Size) [SharitsuTv's Normal] por UNLIMITS
+background-image: url("https://assets.ppy.sh/beatmaps/895391/covers/list.jpg?1622152715");/Sunflower [Hard] por Post Malone, Swae Lee
+background-image: url("https://assets.ppy.sh/beatmaps/891337/covers/list.jpg?1635157725");/Cross Over [Expert] por HyuN feat. LyuU
+background-image: url("https://assets.ppy.sh/beatmaps/890279/covers/list.jpg?1622152158");/Star light, Star bright (TV Size) [Insane] por nano
+background-image: url("https://assets.ppy.sh/beatmaps/876133/covers/list.jpg?1622150419");/Haruka Kanata (TV Size) [Astrandit's Insane] por UNLIMITS
+background-image: url("https://assets.ppy.sh/beatmaps/876133/covers/list.jpg?1622150419");/Haruka Kanata (TV Size) [Astronic's Expert] por UNLIMITS
+background-image: url("https://assets.ppy.sh/beatmaps/865746/covers/list.jpg?1622149263");/Kimi no Sei (TV Size) [Onlybiscuit's Extra] por the peggies
+background-image: url("https://assets.ppy.sh/beatmaps/862547/covers/list.jpg?1622148918");/Fighting Gold (TV Size) [Testo's Expert] por Coda
+background-image: url("https://assets.ppy.sh/beatmaps/862547/covers/list.jpg?1622148918");/Fighting Gold (TV Size) [Gold Experience] por Coda
+background-image: url("https://assets.ppy.sh/beatmaps/858938/covers/list.jpg?1622148472");/RISE (ft. The Glitch Mob, Mako, and The Word Alive) [Pika's Advanced] por League of Legends
+background-image: url("https://assets.ppy.sh/beatmaps/859608/covers/list.jpg?1622148566");/ADAMAS (TV Size) [Kibbleru's Hard] por LiSA
+background-image: url("https://assets.ppy.sh/beatmaps/859608/covers/list.jpg?1622148566");/ADAMAS (TV Size) [Easy] por LiSA
+background-image: url("https://assets.ppy.sh/beatmaps/848259/covers/list.jpg?1631510959");/Jester [Trynna's Hard] por Culprate & Skorpion
+background-image: url("https://assets.ppy.sh/beatmaps/848259/covers/list.jpg?1631510959");/Jester [Real's Advanced] por Culprate & Skorpion
+background-image: url("https://assets.ppy.sh/beatmaps/848090/covers/list.jpg?1622147312");/DAI*TAN SENSATION feat. Nanahira, Mii, Aitsuki Nakuru (Short Ver.) [Hard] por Trial & Error
+background-image: url("https://assets.ppy.sh/beatmaps/842236/covers/list.jpg?1622146568");/Rolling star (TV Size) [Light Insane] por YUI
+background-image: url("https://assets.ppy.sh/beatmaps/821981/covers/list.jpg?1622144437");/Hysteric Night Girl (feat. Such) [Mir's Insane] por PSYQUI
+background-image: url("https://assets.ppy.sh/beatmaps/821981/covers/list.jpg?1622144437");/Hysteric Night Girl (feat. Such) [STYLEY] por PSYQUI
+background-image: url("https://assets.ppy.sh/beatmaps/814033/covers/list.jpg?1622143682");/One Room Sugar Life (TV Size) [ak74's Extra] por Nanawo Akari
+background-image: url("https://assets.ppy.sh/beatmaps/816544/covers/list.jpg?1622143967");/found & lost (TV Size) [Insane] por Survive Said The Prophet
+background-image: url("https://assets.ppy.sh/beatmaps/787134/covers/list.jpg?1622140586");/We Go! (TV Size) [Cris' Insane] por Kitadani Hiroshi
+background-image: url("https://assets.ppy.sh/beatmaps/789544/covers/list.jpg?1631510781");/Invasion [Easy] por Andromedik
+background-image: url("https://assets.ppy.sh/beatmaps/781509/covers/list.jpg?1622139880");/Black Rover (TV Size) [Doormat's Extra] por Vickeblanka
+background-image: url("https://assets.ppy.sh/beatmaps/781509/covers/list.jpg?1622139880");/Black Rover (TV Size) [Shunao's Hard] por Vickeblanka
+background-image: url("https://assets.ppy.sh/beatmaps/720240/covers/list.jpg?1622131770");/Granat [Enon's Hard] por Drop
+background-image: url("https://assets.ppy.sh/beatmaps/770300/covers/list.jpg?1631510657");/Monochrome Butterfly [Nevo's Extra] por Aitsuki Nakuru
+background-image: url("https://assets.ppy.sh/beatmaps/770240/covers/list.jpg?1622138542");/The Girl in Byakkoya [Paprika] por Susumu Hirasawa
+background-image: url("https://assets.ppy.sh/beatmaps/672960/covers/list.jpg?1622125500");/Zankoku na Tenshi no These <TV.Size Version> [Extreme] por Yoko Takahashi
+background-image: url("https://assets.ppy.sh/beatmaps/750743/covers/list.jpg?1622136106");/Haruka Mirai (TV Size) [Kalibe's Insane] por Kankaku Piero
+background-image: url("https://assets.ppy.sh/beatmaps/751932/covers/list.jpg?1631510600");/La fuite des jours [Karen's Hard] por Cranky
+background-image: url("https://assets.ppy.sh/beatmaps/751773/covers/list.jpg?1631510636");/Feline, the White... [Mao's Easy] por Cranky
+background-image: url("https://assets.ppy.sh/beatmaps/751773/covers/list.jpg?1631510636");/Feline, the White... [Hard] por Cranky
+background-image: url("https://assets.ppy.sh/beatmaps/743684/covers/list.jpg?1622135150");/SAVIOR OF SONG (feat. MY FIRST STORY) [AKITOSHI'S INSANE] por nano
+background-image: url("https://assets.ppy.sh/beatmaps/727333/covers/list.jpg?1622132803");/Ding [Deramok's Hidden Extra] por Seeed
+background-image: url("https://assets.ppy.sh/beatmaps/734241/covers/list.jpg?1622133734");/Tsuki ni Murakumo Hana ni Kaze [Monsoon] por Yuuhei Satellite
+background-image: url("https://assets.ppy.sh/beatmaps/720240/covers/list.jpg?1622131770");/Granat [Kawa's Light Insane] por Drop
+background-image: url("https://assets.ppy.sh/beatmaps/642379/covers/list.jpg?1622122071");/Zenryoku*Summer! TV Size [buhei's *Banana*] por angela
+background-image: url("https://assets.ppy.sh/beatmaps/697961/covers/list.jpg?1622128682");/Bon Appetit S (TV Size ver) [leo16834's Hard] por Blend A
+background-image: url("https://assets.ppy.sh/beatmaps/686414/covers/list.jpg?1622127143");/HEROES (TV Size) [lululu's Insane] por Brian The Sun
+background-image: url("https://assets.ppy.sh/beatmaps/681577/covers/list.jpg?1622126516");/Here [TV-EDIT] [Hazu's Hard] por JUNNA
+background-image: url("https://assets.ppy.sh/beatmaps/681577/covers/list.jpg?1622126516");/Here [TV-EDIT] [Normal] por JUNNA
+background-image: url("https://assets.ppy.sh/beatmaps/646289/covers/list.jpg?1622122455");/The Pretender [Ignorance] por Infected Mushroom
+background-image: url("https://assets.ppy.sh/beatmaps/638443/covers/list.jpg?1503343500");/Deal with the devil [diuS' Insane] por Tia
+background-image: url("https://assets.ppy.sh/beatmaps/623911/covers/list.jpg?1622120125");/again [Foxaiga's Another] por YUI
+background-image: url("https://assets.ppy.sh/beatmaps/606419/covers/list.jpg?1622118476");/My Sweet Maiden (TV-size) [Normal] por Mia REGINA
+background-image: url("https://assets.ppy.sh/beatmaps/623911/covers/list.jpg?1622120125");/again [Finshie's Hard] por YUI
+background-image: url("https://assets.ppy.sh/beatmaps/610987/covers/list.jpg?1622118911");/Sakurairo Diary [Normal] por Moso Calibration
+background-image: url("https://assets.ppy.sh/beatmaps/566875/covers/list.jpg?1622114654");/Believe [Starfy's Hard] por Folder5
+background-image: url("https://assets.ppy.sh/beatmaps/606419/covers/list.jpg?1622118476");/My Sweet Maiden (TV-size) [Flezlin's Extra] por Mia REGINA
+background-image: url("https://assets.ppy.sh/beatmaps/597111/covers/list.jpg?1622117645");/Yume Tourou [Insane: Taki] por RADWIMPS
+background-image: url("https://assets.ppy.sh/beatmaps/597111/covers/list.jpg?1622117645");/Yume Tourou [Insane: Mitsuha] por RADWIMPS
+background-image: url("https://assets.ppy.sh/beatmaps/596228/covers/list.jpg?1493893014");/Shocking Blue [Sc4's Normal] por Ito Miku
+background-image: url("https://assets.ppy.sh/beatmaps/480765/covers/list.jpg?1622106238");/Bye Bye YESTERDAY [Expert] por 3 Nen E Gumi Utatan (Nagisa & Kayano & Karuma & Isogai & Maehara)
+background-image: url("https://assets.ppy.sh/beatmaps/595899/covers/list.jpg?1622117491");/oddloop [advanced] por Frederic
+background-image: url("https://assets.ppy.sh/beatmaps/595899/covers/list.jpg?1622117491");/oddloop [collab insane feat. dailycare] por Frederic
+background-image: url("https://assets.ppy.sh/beatmaps/593620/covers/list.jpg?1622117166");/Shinzou o Sasageyo! [TV Size] [Normal] por Linked Horizon
+background-image: url("https://assets.ppy.sh/beatmaps/593620/covers/list.jpg?1622117166");/Shinzou o Sasageyo! [TV Size] [Hard] por Linked Horizon
+background-image: url("https://assets.ppy.sh/beatmaps/593620/covers/list.jpg?1622117166");/Shinzou o Sasageyo! [TV Size] [Insane] por Linked Horizon
+background-image: url("https://assets.ppy.sh/beatmaps/593620/covers/list.jpg?1622117166");/Shinzou o Sasageyo! [TV Size] [Titan] por Linked Horizon
+background-image: url("https://assets.ppy.sh/beatmaps/586841/covers/list.jpg?1622116460");/RHAPSODY OF BLUE SKY [imouto's Extra] por fhana
+background-image: url("https://assets.ppy.sh/beatmaps/586841/covers/list.jpg?1622116460");/RHAPSODY OF BLUE SKY [Dynamix's Insane] por fhana
+background-image: url("https://assets.ppy.sh/beatmaps/566875/covers/list.jpg?1622114654");/Believe [Insane] por Folder5
+background-image: url("https://assets.ppy.sh/beatmaps/561416/covers/list.jpg?1485027187");/Tabidachi no Uta [Koro sensei] por 3 nen E gumi
+background-image: url("https://assets.ppy.sh/beatmaps/561416/covers/list.jpg?1485027187");/Tabidachi no Uta [Karuma] por 3 nen E gumi
+background-image: url("https://assets.ppy.sh/beatmaps/147210/covers/list.jpg?1622071213");/FREEDOM DiVE [Stardust] por xi
+background-image: url("https://assets.ppy.sh/beatmaps/531938/covers/list.jpg?1622111142");/Hikari Are (Anime Version) [Yiyo's Easy] por BURNOUT SYNDROMES
+background-image: url("https://assets.ppy.sh/beatmaps/542081/covers/list.jpg?1622112215");/Cookie-Butter-Choco-Cookie [Irre's Extra] por Elmo and Cookie Monster
+background-image: url("https://assets.ppy.sh/beatmaps/531938/covers/list.jpg?1622111142");/Hikari Are (Anime Version) [Haruto's Insane] por BURNOUT SYNDROMES
+background-image: url("https://assets.ppy.sh/beatmaps/506771/covers/list.jpg?1622108666");/Kamiiro Awase [Pata-Mon's Normal] por binaria
+background-image: url("https://assets.ppy.sh/beatmaps/494641/covers/list.jpg?1617485420");/99 (TV Size) [20% (old)] por MOB CHOIR
+background-image: url("https://assets.ppy.sh/beatmaps/494641/covers/list.jpg?1617485420");/99 (TV Size) [40% (old)] por MOB CHOIR
+background-image: url("https://assets.ppy.sh/beatmaps/490956/covers/list.jpg?1622107285");/Tsukinami [Fragile] por Kanon Wakeshima
+background-image: url("https://assets.ppy.sh/beatmaps/478304/covers/list.jpg?1622105978");/miele paradiso [Sonnyc's Expert] por Iori Nomizu
+background-image: url("https://assets.ppy.sh/beatmaps/482090/covers/list.jpg?1622106396");/Inferno [Excruciating Extra] por 9mm Parabellum Bullet
+background-image: url("https://assets.ppy.sh/beatmaps/481696/covers/list.jpg?1622106356");/DEAD OR LIE <TV Size> [Hard] por Maon Kurosaki feat.TRUSTRICK
+background-image: url("https://assets.ppy.sh/beatmaps/480765/covers/list.jpg?1622106238");/Bye Bye YESTERDAY [Nely's Normal] por 3 Nen E Gumi Utatan (Nagisa & Kayano & Karuma & Isogai & Maehara)
+background-image: url("https://assets.ppy.sh/beatmaps/478304/covers/list.jpg?1622105978");/miele paradiso [StarR's Insane] por Iori Nomizu
+background-image: url("https://assets.ppy.sh/beatmaps/480306/covers/list.jpg?1468238552");/Wait And Bleed [Joey Jordison HARD] por Slipknot
+background-image: url("https://assets.ppy.sh/beatmaps/477685/covers/list.jpg?1622105871");/Button [Lefia's Easy] por PENGUIN RESEARCH
+background-image: url("https://assets.ppy.sh/beatmaps/472538/covers/list.jpg?0");/Yu-Gi-Oh! Japanese Opening Theme Season 1, Version 1 - V O I C E by CLOUD [Normal] por Yu-Gi-Oh
+background-image: url("https://assets.ppy.sh/beatmaps/465326/covers/list.jpg?1466527081");/Hohoemi no Bakudan [Hard] por Mawatari Matsuko
+background-image: url("https://assets.ppy.sh/beatmaps/451198/covers/list.jpg?1622103251");/Crazy Noisy Bizarre Town (TV Size) [Hard ~Star Platinum~] por THE DU
+background-image: url("https://assets.ppy.sh/beatmaps/448847/covers/list.jpg?1622102989");/LAY YOUR HANDS ON ME -TV MIX- [NORMAL] por BOOM BOOM SATELLITES
+background-image: url("https://assets.ppy.sh/beatmaps/448847/covers/list.jpg?1622102989");/LAY YOUR HANDS ON ME -TV MIX- [EASY] por BOOM BOOM SATELLITES
+background-image: url("https://assets.ppy.sh/beatmaps/440706/covers/list.jpg?1622102277");/High Free Spirits -TV.Ver- [Normal] por TrySail
+background-image: url("https://assets.ppy.sh/beatmaps/440706/covers/list.jpg?1622102277");/High Free Spirits -TV.Ver- [Easy] por TrySail
+background-image: url("https://assets.ppy.sh/beatmaps/405053/covers/list.jpg?1622098942");/Junshin Always [Normal] por Azusa Tadokoro
+background-image: url("https://assets.ppy.sh/beatmaps/347719/covers/list.jpg?1622092111");/Kuuchuu ni Shizumu Kishinjou ~ Counter-Clock World [Lunatic Collab] por Demetori
+background-image: url("https://assets.ppy.sh/beatmaps/368985/covers/list.jpg?1622095377");/Kuchizuke Diamond [Lemur] por WEAVER
+background-image: url("https://assets.ppy.sh/beatmaps/356821/covers/list.jpg?1622093792");/Stella-rium [Sekai's Insane] por Kano
+background-image: url("https://assets.ppy.sh/beatmaps/356821/covers/list.jpg?1622093792");/Stella-rium [Starlight] por Kano
+background-image: url("https://assets.ppy.sh/beatmaps/334466/covers/list.jpg?1622089342");/L.L.L. [Normal] por MYTH & ROID
+background-image: url("https://assets.ppy.sh/beatmaps/338291/covers/list.jpg?0");/Days (TV Size) [Hard] por FLOW
+background-image: url("https://assets.ppy.sh/beatmaps/332952/covers/list.jpg?1622088826");/Bravely You (TV Size) [Normal] por Lia
+background-image: url("https://assets.ppy.sh/beatmaps/335534/covers/list.jpg?1622089627");/Pride Kakumei [Extra] por CHiCO with HoneyWorks
+background-image: url("https://assets.ppy.sh/beatmaps/305836/covers/list.jpg?1622085464");/SABLE [Habi's Insane] por nano
+background-image: url("https://assets.ppy.sh/beatmaps/305836/covers/list.jpg?1622085464");/SABLE [Niva's Insane] por nano
+background-image: url("https://assets.ppy.sh/beatmaps/302799/covers/list.jpg?1622085107");/Hello,world! [Habi's Insane] por BUMP OF CHICKEN
+background-image: url("https://assets.ppy.sh/beatmaps/302799/covers/list.jpg?1622085107");/Hello,world! [Normal] por BUMP OF CHICKEN
+background-image: url("https://assets.ppy.sh/beatmaps/302799/covers/list.jpg?1622085107");/Hello,world! [Easy] por BUMP OF CHICKEN
+background-image: url("https://assets.ppy.sh/beatmaps/299804/covers/list.jpg?1622084611");/Haru Modoki [Haru] por yanaginagi
+background-image: url("https://assets.ppy.sh/beatmaps/299000/covers/list.jpg?1622084518");/Bad Apple!! [Noz's Hard] por Yuyoyuppe
+background-image: url("https://assets.ppy.sh/beatmaps/265617/covers/list.jpg?1622081857");/Flyers [Akareh's Insane] por BRADIO
+background-image: url("https://assets.ppy.sh/beatmaps/269103/covers/list.jpg?1622081982");/Ai no Scenario [Truth] por CHiCO with HoneyWorks
+background-image: url("https://assets.ppy.sh/beatmaps/224164/covers/list.jpg?1631509249");/PUPA [Hard] por Morimori Atsushi
+background-image: url("https://assets.ppy.sh/beatmaps/269103/covers/list.jpg?1622081982");/Ai no Scenario [Insane] por CHiCO with HoneyWorks
+background-image: url("https://assets.ppy.sh/beatmaps/267699/covers/list.jpg?1622081918");/Sirius (TV size ver.) [Original] por Aoi Eir
+background-image: url("https://assets.ppy.sh/beatmaps/239787/covers/list.jpg?1622080167");/5 Centimeters Per Second [Hard] por Star Driver
+background-image: url("https://assets.ppy.sh/beatmaps/172013/covers/list.jpg?1622073796");/Oracion(TV-Size) [litoluna's Normal] por Kayano Ai
+background-image: url("https://assets.ppy.sh/beatmaps/162996/covers/list.jpg?1622072883");/killy killy JOKER TV size [Infected] por Wakeshima Kanon
+background-image: url("https://assets.ppy.sh/beatmaps/162996/covers/list.jpg?1622072883");/killy killy JOKER TV size [Hard] por Wakeshima Kanon
+background-image: url("https://assets.ppy.sh/beatmaps/162309/covers/list.jpg?0");/Unicorn [Rob's Hyper] por Mobile Suit Gundam UC OST
+background-image: url("https://assets.ppy.sh/beatmaps/116306/covers/list.jpg?1622067686");/departure! (TV Size) [Trust's Easy] por Masatoshi Ono
+background-image: url("https://assets.ppy.sh/beatmaps/121048/covers/list.jpg?1622068331");/Golden Time [Normal] por Horie Yui
+background-image: url("https://assets.ppy.sh/beatmaps/112651/covers/list.jpg?1458263510");/Square Jump Practice Maps [200BPM t+pazolite_cheatreal GO TO HELL AR10] por Various Artists
+background-image: url("https://assets.ppy.sh/beatmaps/107604/covers/list.jpg?0");/Blurry Eyes (TV Size) [Insane] por L'Arc~en~Ciel
+background-image: url("https://assets.ppy.sh/beatmaps/104437/covers/list.jpg?1622066083");/God only knows -Secrets of the Goddess- (Extract) [Gamu's Hard] por Oratorio The World God Only Knows
+background-image: url("https://assets.ppy.sh/beatmaps/99832/covers/list.jpg?1622065428");/Be [Survive] por Song Riders
+background-image: url("https://assets.ppy.sh/beatmaps/95638/covers/list.jpg?1622064761");/Just Awake (TV Size) [Normal] por Fear, and Loathing in Las Vegas
+background-image: url("https://assets.ppy.sh/beatmaps/85040/covers/list.jpg?1622063156");/No brand girls (TV Size) [alacat's Normal] por u's
+background-image: url("https://assets.ppy.sh/beatmaps/89049/covers/list.jpg?1622063782");/Get Lucky [Medium] por Daft Punk ft. Pharrell Williams
+background-image: url("https://assets.ppy.sh/beatmaps/72740/covers/list.jpg?1631509037");/Catastrophe [Cataclysm] por MuryokuP
+background-image: url("https://assets.ppy.sh/beatmaps/61604/covers/list.jpg?1622059418");/INNOCENCE (TV Size) [Hard] por Aoi Eir
+background-image: url("https://assets.ppy.sh/beatmaps/59569/covers/list.jpg?1622058907");/Nippon Egao Hyakkei [Nyquill's Hard] por Momokurotei Ichimon
+background-image: url("https://assets.ppy.sh/beatmaps/55699/covers/list.jpg?1622057879");/Kokoro no Kara (TV Size) [Insane] por Team.Nekokan[Neko] feat. Amaoto Junca
+background-image: url("https://assets.ppy.sh/beatmaps/48449/covers/list.jpg?1622055059");/I Wish (TV Size) [Insane] por Milky Bunny
+background-image: url("https://assets.ppy.sh/beatmaps/46456/covers/list.jpg?1622054336");/oath sign (TV Size) [YuZuKi's Fate] por LiSA
+background-image: url("https://assets.ppy.sh/beatmaps/46456/covers/list.jpg?1622054336");/oath sign (TV Size) [Hard] por LiSA
+background-image: url("https://assets.ppy.sh/beatmaps/44591/covers/list.jpg?1622053618");/Electric Love (Short Ver.) [5150's Normal] por Hatsune Miku
+background-image: url("https://assets.ppy.sh/beatmaps/38459/covers/list.jpg?1622050540");/Kuusou Mesorogiwi (TV Size) [Akareh's Normal] por Yousei Teikoku
+background-image: url("https://assets.ppy.sh/beatmaps/43013/covers/list.jpg?1622052733");/STUDYxSTUDY (TV Size) [Insane] por StylipS
+background-image: url("https://assets.ppy.sh/beatmaps/41879/covers/list.jpg?1458212364");/Taiyou No Mannaka He [Hard] por Bivattchee
+background-image: url("https://assets.ppy.sh/beatmaps/15440/covers/list.jpg?1622035088");/We Are! (TV Size) [Gladi's Hard] por Hiroshi Kitadani
+background-image: url("https://assets.ppy.sh/beatmaps/25780/covers/list.jpg?1622044140");/See visionS (TV Size) [Hard] por Kawada Mami
+background-image: url("https://assets.ppy.sh/beatmaps/20206/covers/list.jpg?1622039476");/Brand New World (TV Size) [Normal] por D-51
+background-image: url("https://assets.ppy.sh/beatmaps/17908/covers/list.jpg?0");/Sakura [Eureka] por NIRGILIS
+background-image: url("https://assets.ppy.sh/beatmaps/15457/covers/list.jpg?1622035099");/Shuffle [Alazy] por Okui Masami
+background-image: url("https://assets.ppy.sh/beatmaps/15778/covers/list.jpg?1622035456");/Alchemy [ccbp's Normal] por Girls Dead Monster
+background-image: url("https://assets.ppy.sh/beatmaps/15457/covers/list.jpg?1622035099");/Shuffle [Duel~] por Okui Masami
+background-image: url("https://assets.ppy.sh/beatmaps/13223/covers/list.jpg?1622032497");/Emotional Skyscraper ~ World's End [ignore's Hard] por Demetori
+background-image: url("https://assets.ppy.sh/beatmaps/12268/covers/list.jpg?1622031379");/Perfect-area complete! (TV Size) [Hard] por Aso Natsuko
+background-image: url("https://assets.ppy.sh/beatmaps/12756/covers/list.jpg?1622031936");/Shunkan Sentimental (TV Size) [Easy] por SCANDAL
+background-image: url("https://assets.ppy.sh/beatmaps/13673/covers/list.jpg?1622033168");/Uragiri no Yuuyake ( TV Size ) [Insane] por THEATRE BROOK
+background-image: url("https://assets.ppy.sh/beatmaps/12756/covers/list.jpg?1622031936");/Shunkan Sentimental (TV Size) [orion's Insane] por SCANDAL
+background-image: url("https://assets.ppy.sh/beatmaps/12756/covers/list.jpg?1622031936");/Shunkan Sentimental (TV Size) [lepidon! - Taiko Oni] por SCANDAL
+background-image: url("https://assets.ppy.sh/beatmaps/12398/covers/list.jpg?1622031528");/Shoujo S (TV Size) [Hollowification] por SCANDAL
+background-image: url("https://assets.ppy.sh/beatmaps/11963/covers/list.jpg?1622031034");/Alumina (TV Size) [Gladi's KIRA - Insane] por Nightmare
+background-image: url("https://assets.ppy.sh/beatmaps/12216/covers/list.jpg?1622031333");/LEVEL5 -judgelight- (TV Size) [Insane] por fripSide
+background-image: url("https://assets.ppy.sh/beatmaps/10558/covers/list.jpg?1622029301");/Be Your Girl [Hard] por Chieko Kawabe
+background-image: url("https://assets.ppy.sh/beatmaps/10067/covers/list.jpg?1622028696");/only my railgun (TV Size) [Hard] por fripSide
+background-image: url("https://assets.ppy.sh/beatmaps/8836/covers/list.jpg?1631329113");/Beautiful World [Echona's Easy] por Utada Hikaru
+background-image: url("https://assets.ppy.sh/beatmaps/7145/covers/list.jpg?1622025047");/Urusei Yatsura - Lum no Love Song (TV Edit) [Normal] por Yuko Matsutani
+background-image: url("https://assets.ppy.sh/beatmaps/5381/covers/list.jpg?1622022924");/Don't Stop Me Now [Hard ROCK!] por Queen
+background-image: url("https://assets.ppy.sh/beatmaps/3768/covers/list.jpg?1622021251");/Shooting Star [Student] por KOTOKO
+background-image: url("https://assets.ppy.sh/beatmaps/5025/covers/list.jpg?1622022517");/Pokemon Diamond & Pearl - Palkia & Dialga Battle [Dialga!] por Takahiro Nishi
+background-image: url("https://assets.ppy.sh/beatmaps/4572/covers/list.jpg?1622022116");/Hasta que el cuerpo aguante [Insane] por Mago de Oz

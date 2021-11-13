@@ -147,70 +147,89 @@ with webdriver as driver:
     token_pre = parts2[6].rstrip("\n").split("'")
     token = token_pre[3]
 
-
-    # Descargando los mapas
-    linea_actual_absoluta = 0
-    linea_actual_relativa = 0
-    t = int(args.part)
-    inicio = t*100
-    if (t+1)*100 > contador:
-        final = contador
-    else:
-        final = (t*100)+99
-    print("Rango de Descarga: "+ str(inicio)+ " - "+ str(final)+" [!3]")
-    
     try:
         os.mkdir("../canciones")
     except:
         print("borra la carpeta canciones que se ha creado en el directorio anterior a esta carpeta")
+        quit()
+    # Descargando los mapas
+    def Descargar_Mapas(t):
 
-    with open("mapas.txt") as lista_mapas:
-        for line in lista_mapas:
-            linea_actual_absoluta = linea_actual_absoluta +1 
-            if(linea_actual_absoluta >= inicio and linea_actual_absoluta<=final):
-                parts3 = line.rstrip("\n").split("-")
-                parts4 = parts3[0].rstrip("\n").split("/")
-                codigo = parts4[4]
-                name = codigo + " -" + parts3[1]
-                link = parts3[0]
-                cookies = {
-                'XSRF-TOKEN': token,
-                'osu_session': cookie,
-                }
-                headers = {
-                    'Host': 'osu.ppy.sh',
-                    'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0',
-                    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
-                    'Accept-Language': 'es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3',
-                    'Accept-Encoding': 'gzip, deflate',
-                    'Referer': link,
-                    'Upgrade-Insecure-Requests': '1',
-                    'Sec-Fetch-Dest': 'document',
-                    'Sec-Fetch-Mode': 'navigate',
-                    'Sec-Fetch-Site': 'same-origin',
-                    'Sec-Fetch-User': '?1',
-                    'Te': 'trailers',
-                }
-                params = (
-                    ('noVideo', '1'),
-                )
-                if args.withvideo: 
-                    response = requests.get(link, headers=headers, cookies=cookies, verify=False)
-                    time.sleep(1)
-                else: 
-                    response = requests.get(link, headers=headers, cookies=cookies, params=params, verify=False)
-                    time.sleep(1)
-                if args.verbose:
-                    print(name)
+        linea_actual_absoluta = 0
+        linea_actual_relativa = 0
+        inicio = t*100
+        if (t+1)*100 > contador:
+            final = contador
+        else:
+            final = (t*100)+99
+        print("Rango de Descarga: "+ str(inicio)+ " - "+ str(final)+" [!3]")
+
+        with open("mapas.txt") as lista_mapas:
+            for line in lista_mapas:
+                linea_actual_absoluta = linea_actual_absoluta +1 
+                if(linea_actual_absoluta >= inicio and linea_actual_absoluta<=final):
+                    parts3 = line.rstrip("\n").split("-")
+                    parts4 = parts3[0].rstrip("\n").split("/")
+                    codigo = parts4[4]
+                    name = codigo + " -" + parts3[1]
+                    link = parts3[0]
+                    cookies = {
+                    'XSRF-TOKEN': token,
+                    'osu_session': cookie,
+                    }
+                    headers = {
+                        'Host': 'osu.ppy.sh',
+                        'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0',
+                        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+                        'Accept-Language': 'es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3',
+                        'Accept-Encoding': 'gzip, deflate',
+                        'Referer': link,
+                        'Upgrade-Insecure-Requests': '1',
+                        'Sec-Fetch-Dest': 'document',
+                        'Sec-Fetch-Mode': 'navigate',
+                        'Sec-Fetch-Site': 'same-origin',
+                        'Sec-Fetch-User': '?1',
+                        'Te': 'trailers',
+                    }
+                    params = (
+                        ('noVideo', '1'),
+                    )
+                    if args.withvideo: 
+                        response = requests.get(link, headers=headers, cookies=cookies, verify=False)
+                        time.sleep(1)
+                    else: 
+                        response = requests.get(link, headers=headers, cookies=cookies, params=params, verify=False)
+                        time.sleep(1)
+                    if args.verbose:
+                        print(name)
+                    else:
+                        pass
+                    ruta = '../canciones/' + name + '.osz'
+                    open(ruta, 'wb').write(response.content)
+                    linea_actual_relativa = linea_actual_relativa + 1
+                    if (linea_actual_relativa % 10 == 0):
+                        print( "Porcentaje: " + str(linea_actual_relativa)+ "%")
                 else:
                     pass
-                ruta = '../canciones/' + name + '.osz'
-                open(ruta, 'wb').write(response.content)
-                linea_actual_relativa = linea_actual_relativa + 1
-                if (linea_actual_relativa % 10 == 0):
-                    print( "Porcentaje: " + str(linea_actual_relativa)+ "%")
-            else:
-                pass
+    if args.automate:
+        total = int(contador/100)+1
+        for t in range(0,total):
+            hora = time.strftime('%H:%M:%S', time.localtime())
+            print("Comienza la descarga de mapas de la parte: "+str(t)+" a la hora: "+hora ) 
+            Descargar_Mapas(t)
+            print("Porcentaje: 100%")
+            hora = time.strftime('%H:%M:%S', time.localtime())
+            print("Acaba la descarga de mapas de la parte: "+str(t)+" a la hora: "+hora )
+            print("--------------Espera 15 min--------------")
+            time.sleep(900)
+    else:
+        hora = time.strftime('%H:%M:%S', time.localtime())
+        print("Comienza la descarga de mapas de la parte: "+str(args.part)+" a la hora: "+hora ) 
+        Descargar_Mapas(args.part)
+        print("Porcentaje: 100%")
+        hora = time.strftime('%H:%M:%S', time.localtime())
+        print("Acaba la descarga de mapas de la parte: "+str(args.part)+" a la hora: "+hora )
+        print("--------------Espera 15 min--------------")
     driver.close()
 
 

@@ -68,12 +68,12 @@ Para el uso del programa de debe abrir una terminal y dirigirse a la carpeta "Os
 
 El programa requiere que el inicio de sesión para la descarga de mapas.
 
-Se tiene que descargar en orden la parte 0 para los de 1-99, parte 1 para 100-199, parte 2 para 200-299, etc, estos no están en orden a los más jugados, **otra opción que tiene es usar el -at y que se descarguen solos pero toma 10 min cada 100 mapas por el delay.**
+Se tiene que descargar en orden la parte 0 para los de 1-99, parte 1 para 100-199, parte 2 para 200-299, etc, estos no están en orden a los más jugados, **otra opción que tiene es usar el -at y que se descarguen solos pero toma 15 min cada 100 mapas por el delay.**
 
-Cada parte tiene que tener un tiempo de separación de 10 minutos mínimo o se tendrá un problema gracias al límite de descargas en menos de 10 min, **SI DESCARGAS SIN RESPETAR ESTE TIEMPO ENTONCES SE DESCARGARÁN CON ERROR MUCHOS MAPAS Y TE BLOQUEARÁN UNOS MINUTOS CON ERROR 429**
+Cada parte tiene que tener un tiempo de separación de 15 minutos mínimo o se tendrá un problema gracias al límite de descargas en menos de 10 min, **SI DESCARGAS SIN RESPETAR ESTE TIEMPO ENTONCES SE DESCARGARÁN CON ERROR MUCHOS MAPAS Y TE BLOQUEARÁN UNOS MINUTOS CON ERROR 429**
 
 
-**la Función -at todavía no está implementada.**
+**la Función -at todavía no está implementada. correctamente**
 
 ~~~
 usage: extraccion_mapas.py [-h] [-u USER] [-p PASSWORD]
