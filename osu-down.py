@@ -21,7 +21,7 @@ parser.add_argument("-wv", "--withvideo", help="This option downloads maps with 
 parser.add_argument("-ou", "--otheruser", help="This option allows you to download maps from other users.")
 parser.add_argument("-pt", "--part", help="This indicate the part of your list maps gonna be download, 0=[0-99], 1=[100-199], ...")
 parser.add_argument("-lx", "--linux", help="This is for linux", action="store_true")
-parser.add_argument("-at", "--automate", help="This option downloads all maps, but it may take a long time", action="store_true")
+parser.add_argument("-at", "--automate", help="This option downloads all maps, but it may take a long time because use a delay.", action="store_true")
 parser.add_argument("-v", "--verbose", help="This option shows you the map that is currently downloaded.", action="store_true")
 args = parser.parse_args()
 
@@ -158,6 +158,11 @@ with webdriver as driver:
     else:
         final = (t*100)+99
     print("Rango de Descarga: "+ str(inicio)+ " - "+ str(final)+" [!3]")
+    
+    try:
+        os.mkdir("../canciones")
+    except:
+        print("borra la carpeta canciones que se ha creado en el directorio anterior a esta carpeta")
 
     with open("mapas.txt") as lista_mapas:
         for line in lista_mapas:
@@ -199,7 +204,7 @@ with webdriver as driver:
                     print(name)
                 else:
                     pass
-                ruta = './canciones/' + name + '.osz'
+                ruta = '../canciones/' + name + '.osz'
                 open(ruta, 'wb').write(response.content)
                 linea_actual_relativa = linea_actual_relativa + 1
                 if (linea_actual_relativa % 10 == 0):

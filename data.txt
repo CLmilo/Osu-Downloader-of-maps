@@ -1,0 +1,5 @@
+background-image: url("https://assets.ppy.sh/beatmaps/63222/covers/list.jpg?1622059676");/Yasashisa no Riyuu [Hard] por ChouCho
+background-image: url("https://assets.ppy.sh/beatmaps/921889/covers/list.jpg?1622155646");/Chikatto Chika Chika (TV Size) [Little's Insane] por Fujiwara Chika (CV: Kohara Konomi)
+background-image: url("https://assets.ppy.sh/beatmaps/781509/covers/list.jpg?1622139880");/Black Rover (TV Size) [NiNo's Insane] por Vickeblanka
+background-image: url("https://assets.ppy.sh/beatmaps/826125/covers/list.jpg?1533585160");/The Girls Are Alright! ~TV size~ [Insane] por [Sora yori mo Tooi Basho OP] saya
+background-image: url("https://assets.ppy.sh/beatmaps/310408/covers/list.jpg?1622086027");/Everyday World [Ky's Insane] por Yukinoshita Yukino (CV.Hayami Saori) & Yuigahama Yui (CV.Touyama Nao)
