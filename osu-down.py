@@ -1,3 +1,7 @@
+
+# AUTOR: CLmilo y Elfex1
+# FECHA: 13/11/2021
+
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
