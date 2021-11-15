@@ -64,7 +64,7 @@ https://chromedriver.chromium.org/downloads
 Buscas tu versión y descargas el chromedriver_win32.zip y lo descomprimes, lo copias y lo pegas en la carpeta actual con el nombre chromedriver.exe
 
 ## **Instrucciones de uso**
-Para el uso del programa de debe abrir una terminal y dirigirse a la carpeta "Osu-Recovery".
+Para el uso del programa de debe abrir una terminal del sistema, en windows es "CMD.exe" y en linux la shell, luego dirigirse a la carpeta "Osu-Downloader-of-maps".
 
 El programa requiere que el inicio de sesión para la descarga de mapas.
 
