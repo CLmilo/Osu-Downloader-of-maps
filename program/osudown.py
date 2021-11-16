@@ -25,6 +25,7 @@ parser.add_argument("-at", "--automate", help="This option downloads all maps, b
 parser.add_argument("-v", "--verbose", help="This option shows you the map that is currently downloaded.", action="store_true")
 args = parser.parse_args()
 
+
 # Definiendo opciones básica al selenium
 options = Options()
 options.headless = True
