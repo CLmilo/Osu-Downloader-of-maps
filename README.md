@@ -64,16 +64,13 @@ https://chromedriver.chromium.org/downloads
 Buscas tu versión y descargas el chromedriver_win32.zip y lo descomprimes, lo copias y lo pegas en la carpeta actual con el nombre chromedriver.exe
 
 ## **Instrucciones de uso**
-Para el uso del programa de debe abrir una terminal y dirigirse a la carpeta "Osu-Recovery".
+Para el uso del programa de debe abrir una terminal del sistema, en windows es "CMD.exe" y en linux la shell, luego dirigirse a la carpeta "Osu-Downloader-of-maps".
 
 El programa requiere que el inicio de sesión para la descarga de mapas.
 
-Se tiene que descargar en orden la parte 0 para los de 1-99, parte 1 para 100-199, parte 2 para 200-299, etc, estos no están en orden a los más jugados, **otra opción que tiene es usar el -at y que se descarguen solos pero toma 15 min cada 100 mapas por el delay.**
+Se tiene que descargar en orden la parte 0 para los de 1-99, parte 1 para 100-199, parte 2 para 200-299, etc, estos no están en orden a los más jugados, **otra opción que tiene es usar el -at y que se descarguen solos pero toma 30 min cada 100 mapas por el delay.**
 
-Cada parte tiene que tener un tiempo de separación de 15 minutos mínimo o se tendrá un problema gracias al límite de descargas en menos de 10 min, **SI DESCARGAS SIN RESPETAR ESTE TIEMPO ENTONCES SE DESCARGARÁN CON ERROR MUCHOS MAPAS Y TE BLOQUEARÁN UNOS MINUTOS CON ERROR 429**
-
-
-**la Función -at todavía no está implementada. correctamente**
+Cada parte tiene que tener un tiempo de separación de 30 minutos mínimo o se tendrá un problema gracias al límite de descargas en menos de 30 min, **SI DESCARGAS SIN RESPETAR ESTE TIEMPO ENTONCES SE DESCARGARÁN CON ERROR MUCHOS MAPAS Y TE BLOQUEARÁN UNOS MINUTOS CON ERROR 429**
 
 ~~~
 usage: extraccion_mapas.py [-h] [-u USER] [-p PASSWORD]
