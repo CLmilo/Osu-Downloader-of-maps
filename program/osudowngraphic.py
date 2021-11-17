@@ -8,23 +8,38 @@ from selenium.webdriver.chrome.service import Service
 import time
 import requests
 import urllib3
-import os
-
+import os, wget
+import zipfile
 urllib3.disable_warnings()
-val=0
-google_version=os.system("google-chrome --version")
-for linea in google_version:
-    ga=str(linea).rstrip("\n").split()
-    print(ga)
-    print("csmre")
+import subprocess
 
-version=cadena_version[1]
-link_descarga_driver="https://chromedriver.storage.googleapis.com/index.html?path="+version+"/"+"chromedriver_win32.zip"
-response = requests.get(link_descarga_driver,verify=False)
+output = subprocess.check_output(
+    r'wmic datafile where name="C:\\Archivos de Programa\\Google\\Chrome\\Application\\chrome.exe" get Version /value',
+    shell=True
+)
+version=output.decode('utf-8').strip()
+n_version_cadena=version.split("=")
+n_version=n_version_cadena[1]
+print(n_version)
+n_version=str(n_version)
+link_descarga_driver="https://chromedriver.storage.googleapis.com/"+n_version+"/"+"chromedriver_win32.zip"
+print(link_descarga_driver)
+wget.download(link_descarga_driver,"driver.zip")
+print("hola")
+#Descomprimiendo el zip
+ruta_zip = "driver.zip"
+ruta_extraccion = "program"
+password = None
+archivo_zip = zipfile.ZipFile(ruta_zip, "r")
+try:
+    print(archivo_zip.namelist())
+    archivo_zip.extractall(pwd=password, path=ruta_extraccion)
+except:
+    pass
+archivo_zip.close()
 
 
-
-ruta_driver = './Osu-Downloader-of-maps/program/chromedriver'
+ruta_driver = 'program/chromedriver.exe'
 # OPCIONES DEL NAVEGADOR
 options = Options()
 options.headless = True
@@ -105,14 +120,16 @@ def Login(usuario, contraseña, ou, other_user):
         token_pre = parts2[6].rstrip("\n").split("'")
         token = token_pre[3]
 
-        if not(os.path.exists('./Osu-Downloader-of-maps/mapas.txt')):
+        if not(os.path.exists('./mapas.txt')):
             wait = WebDriverWait(driver, 10)
             driver.get(url_perfil) 
             wait.until(presence_of_all_elements_located,((By.CLASS_NAME, "page-extra")))
             time.sleep(2)
             # Obteniendo cantidad de veces de clickeos necesarios
             cantidad_xml = driver.find_element(By.XPATH,'//div[@class="page-extra"]/h3[2]/span')
-            cantidad = int(cantidad_xml.text)
+            cantidad_t = cantidad_xml.text.split(",")
+            cantidad = cantidad_t[0]+cantidad_t[1]
+            cantidad = int(cantidad)
             cantidad = (cantidad - 5)/50
             cantidad = int(cantidad)
             # Obteniendo el total de mapas en la página
@@ -121,7 +138,7 @@ def Login(usuario, contraseña, ou, other_user):
                 try:
                     button.click()
                 except:
-                    print(i)
+                    pass
                 time.sleep(2)
                 if i == (cantidad+1):
                     pass
@@ -131,7 +148,7 @@ def Login(usuario, contraseña, ou, other_user):
                     except:
                         pass
             # Obteniendo el la data en bruto con el id del mapa
-            f = open("./Osu-Downloader-of-maps/data.txt", "w")
+            f = open("./data.txt", "w")
             mapas = driver.find_elements(By.XPATH,'//div[@class="beatmap-playcount"]')
             for mapa in mapas:
                 link_foto = mapa.find_element(By.XPATH,'.//a[@class="beatmap-playcount__cover"]').get_attribute("style")
@@ -141,7 +158,7 @@ def Login(usuario, contraseña, ou, other_user):
             f.close()
             # Quitando las repeticiones y filtrando el id del mapa
             lista_mapas = []
-            with open("./Osu-Downloader-of-maps/data.txt") as data:
+            with open("./data.txt") as data:
                 for line in data:
                     try:
                         parts_link = line.rstrip("\n").split("/")
@@ -154,7 +171,7 @@ def Login(usuario, contraseña, ou, other_user):
             lista_ordenada = list(arreglo_ordenado)
 
             # Generando el link sin repeticiones
-            f = open("./Osu-Downloader-of-maps/mapas.txt", "w")
+            f = open("./mapas.txt", "w")
             contador = 0
             for line in lista_ordenada:
                 id_map = line.rstrip("\n").split("-")
@@ -164,7 +181,7 @@ def Login(usuario, contraseña, ou, other_user):
             f.close()
             print("Cantidad de mapas totales: "+ str(contador) +" [!2]")
         else:
-            with open("./Osu-Downloader-of-maps/mapas.txt") as lista_mapas:
+            with open("./mapas.txt") as lista_mapas:
                 contador = 0
                 for line in lista_mapas:
                     contador = contador +1
@@ -189,7 +206,7 @@ def Descargar_Mapas(t,wv,verbose,contador,token,cookie):
         final = (t*100)+99
     print("Rango de Descarga: "+ str(inicio)+ " - "+ str(final)+" [!3]")
 
-    with open("./Osu-Downloader-of-maps/mapas.txt") as lista_mapas:
+    with open("./mapas.txt") as lista_mapas:
         for line in lista_mapas:
             linea_actual_absoluta = linea_actual_absoluta +1 
             if(linea_actual_absoluta >= inicio and linea_actual_absoluta<=5):
