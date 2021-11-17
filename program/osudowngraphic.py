@@ -50,16 +50,16 @@ webdriver = webdriver.Chrome(service=s, options=options)
 
 def Iniciar_descarga(usuario, contraseña,ou,other_user,at,t,wv,verbose ):
     contador,token,cookie= Login(usuario, contraseña, ou, other_user)
-    if at==1:
-        total = int(contador/100)+1
-        for t in range(0,total):
+    if at == 1:
+        total = int(int(contador/100)+1)
+        for cn in range(1,total+1):
             hora = time.strftime('%H:%M:%S', time.localtime())
-            print("Comienza la descarga de mapas de la parte: "+str(t)+" a la hora: "+hora ) 
-            Descargar_Mapas(t,wv,verbose,contador,token,cookie)
+            print("Comienza la descarga de mapas de la parte: "+str(cn)+" a la hora: "+hora ) 
+            Descargar_Mapas(cn,wv,verbose,contador,token,cookie)
             print("Porcentaje: 100%")
             hora = time.strftime('%H:%M:%S', time.localtime())
-            print("Acabó la descarga de mapas de la parte: "+str(t)+" a la hora: "+hora )
-            if t<total:
+            print("Acabó la descarga de mapas de la parte: "+str(cn)+" a la hora: "+hora )
+            if cn<total:
                 print("--------------Espera 30 min--------------")
             else:
                 pass
@@ -127,8 +127,12 @@ def Login(usuario, contraseña, ou, other_user):
             time.sleep(2)
             # Obteniendo cantidad de veces de clickeos necesarios
             cantidad_xml = driver.find_element(By.XPATH,'//div[@class="page-extra"]/h3[2]/span')
-            cantidad_t = cantidad_xml.text.split(",")
-            cantidad = cantidad_t[0]+cantidad_t[1]
+            
+            try : 
+                cantidad_t = cantidad_xml.text.split(",")
+                cantidad = cantidad_t[0]+cantidad_t[1]
+            except:
+                cantidad = cantidad_xml.text
             cantidad = int(cantidad)
             cantidad = (cantidad - 5)/50
             cantidad = int(cantidad)
@@ -209,7 +213,7 @@ def Descargar_Mapas(t,wv,verbose,contador,token,cookie):
     with open("./mapas.txt") as lista_mapas:
         for line in lista_mapas:
             linea_actual_absoluta = linea_actual_absoluta +1 
-            if(linea_actual_absoluta >= inicio and linea_actual_absoluta<=5):
+            if(linea_actual_absoluta >= inicio and linea_actual_absoluta<=final):
                 parts3 = line.rstrip("\n").split("-")
                 parts4 = parts3[0].rstrip("\n").split("/")
                 codigo = parts4[4]
@@ -236,21 +240,37 @@ def Descargar_Mapas(t,wv,verbose,contador,token,cookie):
                 params = (
                     ('noVideo', '1'),
                 )
-                if wv==1: 
-                    response = requests.get(link, headers=headers, cookies=cookies, verify=False)
-                    time.sleep(0.2)
-                else: 
-                    response = requests.get(link, headers=headers, cookies=cookies, params=params, verify=False)
-                    time.sleep(0.2)
-                if verbose==1:
-                    print(name)
-                else:
+                try:
+                    if wv==1: 
+                        response = requests.get(link, headers=headers, cookies=cookies, verify=False)
+                        time.sleep(0.2)
+                    else: 
+                        response = requests.get(link, headers=headers, cookies=cookies, params=params, verify=False)
+                        time.sleep(0.2)
+                
+                    if verbose==1:
+                        print(name)
+                    else:
+                        pass
+                    ruta = './canciones/' + name + '.osz'
+                    try:
+                        open(ruta, 'wb').write(response.content)
+                        linea_actual_relativa = linea_actual_relativa + 1
+                        if (linea_actual_relativa % 10 == 0):
+                            print( "Porcentaje: " + str(linea_actual_relativa)+ "%")
+                        else:
+                            pass
+                    except:
+                        ruta= './canciones/' + codigo + '.osz'
+                        open(ruta, 'wb').write(response.content)
+                        linea_actual_relativa = linea_actual_relativa + 1
+                        if (linea_actual_relativa % 10 == 0):
+                            print( "Porcentaje: " + str(linea_actual_relativa)+ "%")
+                        else:
+                            pass
+                except:
+                    print("Esta canción se tiene que descargar manualmente : "+name)
                     pass
-                ruta = './canciones/' + name + '.osz'
-                open(ruta, 'wb').write(response.content)
-                linea_actual_relativa = linea_actual_relativa + 1
-                if (linea_actual_relativa % 10 == 0):
-                    print( "Porcentaje: " + str(linea_actual_relativa)+ "%")
             else:
                 pass
 

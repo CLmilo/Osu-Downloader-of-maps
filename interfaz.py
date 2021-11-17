@@ -6,12 +6,9 @@ root=Tk()
 
 root.title("Osu-Downloader")
 
-#root.resizable(0,0)
-#root.geometry("650x350")
-
 # FUNCION BUSQUEDA
 def pulsaboton():
-    p.Iniciar_descarga(lcuadro_usuario.get(),lcuadro_contraseña.get(),var1,lcuadro_otheruser.get(),var3,lcuadro_parte.get(),var2,var4)
+    p.Iniciar_descarga(lcuadro_usuario.get(),lcuadro_contraseña.get(),var1.get(),lcuadro_otheruser.get(),var3.get(),lcuadro_parte.get(),var2.get(),var4.get())
 
 # INICIANDO MIFRAME
 miFrame=Frame()
